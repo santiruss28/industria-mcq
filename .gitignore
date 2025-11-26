@@ -1,0 +1,18 @@
+# Entornos
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Secretos
+.env
+
+# Archivos grandes que NO necesitamos en GitHub
+pdfs/
+data/chunks.jsonl
+data/mcq_simple.txt
+data/mcq.jsonl
+tmp_check_write.py

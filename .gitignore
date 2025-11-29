@@ -1,4 +1,4 @@
-# Entornos
+# Entorno virtual
 .venv/
 env/
 venv/
@@ -7,12 +7,10 @@ venv/
 __pycache__/
 *.pyc
 
-# Secretos
-.env
-
-# Archivos grandes que NO necesitamos en GitHub
+# Archivos grandes o intermedios
 pdfs/
 data/chunks.jsonl
 data/mcq_simple.txt
-data/mcq.jsonl
-tmp_check_write.py
+
+# Cosas sensibles
+.env

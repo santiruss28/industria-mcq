@@ -9,6 +9,17 @@ from tqdm import tqdm
 
 load_dotenv()
 
+BASE_DIR = Path(__file__).resolve().parent
+
+# Fuerza a usar ESTE .env y que pise cualquier variable previa
+load_dotenv(dotenv_path=BASE_DIR / ".env", override=True)
+
+print("DEBUG – OPENAI_API_KEY que ve Python:")
+key = os.getenv("OPENAI_API_KEY")
+print("  Prefijo:", key[:5] if key else None)
+print("  Sufijo:", key[-5:] if key else None)
+
+
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 DATA_DIR = Path("data")

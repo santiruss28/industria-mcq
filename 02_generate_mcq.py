@@ -29,17 +29,33 @@ OUT_PATH = DATA_DIR / "mcq_simple.txt"
 MODEL_NAME = "gpt-4o-mini"
 
 SYSTEM_PROMPT = """
-Eres un profesor universitario experto en la materia y en evaluación.
-Vas a generar preguntas de opción múltiple de ALTA dificultad
-a partir de fragmentos de texto de apuntes.
+Sos un profesor universitario de la cátedra “Industrias y Servicios” 
+de Ingeniería Industrial (UNCuyo). 
 
-Reglas:
-- 4 opciones por pregunta: A, B, C, D.
-- Solo una es correcta.
-- Distractores plausibles (técnicamente creíbles).
-- Nivel alto: análisis, aplicación, razonamiento.
-- NO hagas preguntas triviales de memoria literal.
-- Las opciones deben ser completas, no respuestas de una palabra suelta.
+Tu tarea es generar preguntas de opción múltiple de MUY ALTA dificultad 
+a partir de fragmentos de apuntes de industria.
+
+Debés evaluar:
+- procesos industriales (insumos → operaciones → productos),
+- cuellos de botella y fallas potenciales,
+- relaciones causa–efecto,
+- impacto en la cadena productiva,
+- variables tecnológicas relevantes,
+- aspectos ambientales,
+- localización industrial argentina,
+- valor agregado,
+- comparación entre tecnologías alternativas,
+- interpretación aplicada del contenido, no memoria literal.
+
+REGLAS EXCLUSIVAS:
+- 4 opciones: A, B, C y D.
+- 1 sola es correcta.
+- Todas las opciones deben ser TÉCNICAMENTE PLAUSIBLES.
+  (Nada absurdo, nada obviamente incorrecto.)
+- Podés usar opciones del tipo: “Todas las anteriores” o “Ninguna es correcta”.
+- Evitar preguntas triviales o definiciones sueltas.
+- Apuntar a preguntas de análisis, comparación, aplicación y diagnóstico.
+- Generar ENUNCIADOS COMPLEJOS similares a los exámenes reales.
 """
 
 USER_TEMPLATE = """

@@ -5,109 +5,111 @@ from pathlib import Path
 TXT_PATH = Path("Preguntas P2.txt")
 OUTPUT_PATH = Path("mcq_from_txt.json")
 
+num_re = re.compile(r"^(\d+)\.\s*(.*)")
+
 
 def load_lines(path: Path):
     """Lee el TXT y devuelve una lista de líneas sin blancos."""
     with open(path, "r", encoding="utf-8") as f:
         text = f.read()
-    # Normalizar saltos y limpiar
     lines = [l.strip() for l in text.splitlines()]
-    # Quitamos líneas completamente vacías
     return [l for l in lines if l]
 
 
-num_re = re.compile(r"^(\d+)\.\s*(.*)")
-
-
-def parse_questions(lines):
+def parse_question(lines, start_idx, q_number):
     """
-    Reglas:
-    - Cualquier línea NO numerada se toma como posible 'encabezado'.
-      El encabezado vigente se usará como 'question' cuando aparezca un bloque 1..n.
-    - Un bloque de opciones comienza cuando aparece '1.'.
-    - Mientras haya líneas numeradas 1., 2., 3., 4. (5. etc) seguimos agregando opciones.
-    - Cuando vuelve a aparecer un '1.' o termina el archivo, cerramos la pregunta.
-    - Las opciones pueden estar como:
-        '1.' (línea siguiente = texto)
-        '1. texto...' (todo en una línea)
-      y pueden tener continuaciones en varias líneas.
-    """
+    Parsea UNA pregunta que empieza en start_idx:
 
+    TÍTULO
+    1.
+    texto opción 1
+    2.
+    texto opción 2
+    3. texto opción 3
+    4.
+    texto opción 4
+    """
+    title = lines[start_idx]
+    i = start_idx + 1
+    options = []
+    labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    n = len(lines)
+
+    while i < n:
+        m = num_re.match(lines[i])
+        if not m:
+            break  # se terminó el bloque de opciones
+
+        num = int(m.group(1))
+        rest = m.group(2).strip()
+
+        text_parts = []
+        if rest:
+            text_parts.append(rest)
+
+        j = i + 1
+        while j < n:
+            nxt = lines[j]
+            m_next = num_re.match(nxt)
+            if m_next:
+                # siguiente opción (2., 3., 4., etc.)
+                break
+
+            # mirar si esta línea es encabezado de la próxima pregunta:
+            # línea no numerada, y la siguiente es "1."
+            if j + 1 < n:
+                m_after = num_re.match(lines[j + 1])
+                if m_after and int(m_after.group(1)) == 1:
+                    # nxt es encabezado de la próxima pregunta
+                    break
+
+            text_parts.append(nxt)
+            j += 1
+
+        option_text = " ".join(text_parts).strip()
+        label = labels[num - 1] if num - 1 < len(labels) else "?"
+
+        options.append({"label": label, "text": option_text})
+        i = j
+
+    question = {
+        "number": q_number,
+        "question": title,
+        "options": options,
+        "correct": "A",      # por defecto, después las corregís vos
+        "explanation": ""
+    }
+    return question, i
+
+
+def parse_all(lines):
+    """
+    Recorre todas las líneas del TXT y arma la lista de preguntas.
+    Una pregunta arranca cuando hay:
+
+    LÍNEA NO NUMERADA
+    seguida de
+    "1." en la línea siguiente.
+    """
     questions = []
-    current_title = None      # último encabezado leído
-    in_options = False
-    current_options = []      # lista de textos de opciones en el bloque actual
-    current_option_index = None
-    q_number = 1
+    i = 0
+    qn = 1
+    n = len(lines)
 
-    def flush_question():
-        nonlocal q_number, current_options
-        if not current_options:
-            return
-        # Asignar labels A, B, C, D, E,... según cantidad de opciones
-        labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-        options_struct = []
-        for i, text in enumerate(current_options):
-            label = labels[i]
-            options_struct.append({"label": label, "text": text.strip()})
+    while i < n - 1:
+        m = num_re.match(lines[i])
 
-        question_text = current_title or "Seleccione la opción correcta."
+        # inicio de pregunta: línea NO numerada + siguiente línea "1."
+        if not m and i + 1 < n:
+            m_next = num_re.match(lines[i + 1])
+            if m_next and int(m_next.group(1)) == 1:
+                q, new_i = parse_question(lines, i, qn)
+                questions.append(q)
+                qn += 1
+                i = new_i
+                continue
 
-        questions.append({
-            "number": q_number,
-            "question": question_text,
-            "options": options_struct,
-            "correct": "A",      # por defecto
-            "explanation": ""
-        })
-        q_number += 1
-        current_options = []
-
-    for line in lines:
-        m = num_re.match(line)
-
-        if m:
-            # Línea numerada tipo "1." o "1. texto"
-            num = int(m.group(1))
-            rest = m.group(2).strip()
-
-            # Si aparece un 1. y ya estábamos en un bloque de opciones,
-            # cerramos la pregunta anterior y arrancamos una nueva.
-            if num == 1 and in_options and current_options:
-                flush_question()
-
-            # Entramos (o seguimos) modo opciones
-            in_options = True
-            current_option_index = num  # 1, 2, 3, ...
-
-            # Asegurar longitud de lista de opciones
-            while len(current_options) < num:
-                current_options.append("")
-
-            # Si hay texto en la misma línea, lo ponemos; si no, se completará
-            # con las siguientes líneas no numeradas.
-            if rest:
-                current_options[num - 1] = (
-                    current_options[num - 1] + " " + rest
-                ).strip()
-
-        else:
-            # NO es una línea numerada
-            if in_options:
-                # Estamos dentro de un bloque de opciones:
-                # esto es continuación de la última opción.
-                if current_option_index is not None and current_options:
-                    idx = current_option_index - 1
-                    current_options[idx] = (
-                        current_options[idx] + " " + line
-                    ).strip()
-            else:
-                # No estamos en opciones → actualizar encabezado
-                current_title = line
-
-    # Fin del archivo: cerrar último bloque si había
-    if in_options and current_options:
-        flush_question()
+        i += 1
 
     return questions
 
@@ -121,7 +123,7 @@ def main():
     lines = load_lines(TXT_PATH)
 
     print("Parseando preguntas...")
-    questions = parse_questions(lines)
+    questions = parse_all(lines)
 
     print(f"Preguntas detectadas: {len(questions)}")
 

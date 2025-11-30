@@ -21,7 +21,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna respuesta es correcta Derivados vínicos"
+            "text": "Ninguna respuesta es correcta"
           }
         ],
         "correct": "A",
@@ -29,7 +29,7 @@
       },
       {
         "number": 2,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Derivados vínicos",
         "options": [
           {
             "label": "A",
@@ -45,7 +45,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las respuestas anteriores son correctas. Derivados vínicos"
+            "text": "Todas las respuestas anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -53,7 +53,7 @@
       },
       {
         "number": 3,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Derivados vínicos",
         "options": [
           {
             "label": "A",
@@ -69,7 +69,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las respuestas anteriores es correcta. Derivados vínicos"
+            "text": "Ninguna de las respuestas anteriores es correcta."
           }
         ],
         "correct": "A",
@@ -77,7 +77,7 @@
       },
       {
         "number": 4,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Derivados vínicos",
         "options": [
           {
             "label": "A",
@@ -93,7 +93,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las opciones anteriores es correcta. En la obtención de tartrato cálcico a partir del orujo:"
+            "text": "Ninguna de las opciones anteriores es correcta."
           }
         ],
         "correct": "A",
@@ -101,7 +101,7 @@
       },
       {
         "number": 5,
-        "question": "Mosto y derivados vínicos:",
+        "question": "En la obtención de tartrato cálcico a partir del orujo:",
         "options": [
           {
             "label": "A",
@@ -117,7 +117,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las respuestas anteriores es incorrecta. Madera Haga un diagrama de flujo de proceso de impregnación de maderas con preservantes y explique brevemente cada etapa Haga el flujo de proceso de fabricación de tableros de madera y describa brevemente 3 tipos distintos de tableros. Mencione y grafique las capas que forman un tronco de árbol En la industria de base forestal y madera, mencione al menos 5 subsectores de la misma. El aglomerado y el MDF:"
+            "text": "Ninguna de las respuestas anteriores es incorrecta. Madera Haga un diagrama de flujo de proceso de impregnación de maderas con preservantes y explique brevemente cada etapa Haga el flujo de proceso de fabricación de tableros de madera y describa brevemente 3 tipos distintos de tableros. Mencione y grafique las capas que forman un tronco de árbol En la industria de base forestal y madera, mencione al menos 5 subsectores de la misma."
           }
         ],
         "correct": "A",
@@ -125,7 +125,7 @@
       },
       {
         "number": 6,
-        "question": "Mosto y derivados vínicos:",
+        "question": "El aglomerado y el MDF:",
         "options": [
           {
             "label": "A",
@@ -141,7 +141,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las anteriores son correctas. Madera laminada."
+            "text": "Todas las anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -149,7 +149,7 @@
       },
       {
         "number": 7,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Madera laminada.",
         "options": [
           {
             "label": "A",
@@ -165,7 +165,7 @@
           },
           {
             "label": "D",
-            "text": "En Argentina comúnmente se fabrica con madera de cedro o álamo. En el proceso de impregnación de maderas con preservantes:"
+            "text": "En Argentina comúnmente se fabrica con madera de cedro o álamo."
           }
         ],
         "correct": "A",
@@ -173,7 +173,7 @@
       },
       {
         "number": 8,
-        "question": "Mosto y derivados vínicos:",
+        "question": "En el proceso de impregnación de maderas con preservantes:",
         "options": [
           {
             "label": "A",
@@ -189,7 +189,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las opciones anteriores es correcta. ¿Cuál(es) de las siguientes afirmaciones considera incorrecta(s) respecto a los tableros de aglomerado y OSB?:"
+            "text": "Ninguna de las opciones anteriores es correcta. ¿Cuál(es) de las siguientes afirmaciones considera incorrecta(s) respecto a los tableros de"
           }
         ],
         "correct": "A",
@@ -197,7 +197,7 @@
       },
       {
         "number": 9,
-        "question": "Mosto y derivados vínicos:",
+        "question": "aglomerado y OSB?:",
         "options": [
           {
             "label": "A",
@@ -213,7 +213,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna incorrecta. La composición de la madera es:"
+            "text": "Ninguna incorrecta."
           }
         ],
         "correct": "A",
@@ -221,7 +221,7 @@
       },
       {
         "number": 10,
-        "question": "Mosto y derivados vínicos:",
+        "question": "La composición de la madera es:",
         "options": [
           {
             "label": "A",
@@ -237,7 +237,7 @@
           },
           {
             "label": "D",
-            "text": "50%celulosa, 40% lignina, y 10% otras sustancias (resinas, etc.) ¿Qué observación considera acertada sobre las características del sector terciario en la cadena de valor foresto maderera?"
+            "text": "50%celulosa, 40% lignina, y 10% otras sustancias (resinas, etc.)"
           }
         ],
         "correct": "A",
@@ -245,7 +245,7 @@
       },
       {
         "number": 11,
-        "question": "Mosto y derivados vínicos:",
+        "question": "¿Qué observación considera acertada sobre las características del sector terciario en la cadena de valor foresto maderera?",
         "options": [
           {
             "label": "A",
@@ -265,7 +265,7 @@
           },
           {
             "label": "E",
-            "text": "Ninguna es correcta. Las maderas impregnadas:"
+            "text": "Ninguna es correcta."
           }
         ],
         "correct": "A",
@@ -273,7 +273,7 @@
       },
       {
         "number": 12,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Las maderas impregnadas:",
         "options": [
           {
             "label": "A",
@@ -289,7 +289,7 @@
           },
           {
             "label": "D",
-            "text": "Por lo general tienen mucha albura Metalmecánica Haga el diagrama de flujo que muestra las distintas operaciones usadas en el proceso de manufactura metalmecánica. Industria metalmecánica:"
+            "text": "Por lo general tienen mucha albura Metalmecánica Haga el diagrama de flujo que muestra las distintas operaciones usadas en el proceso de manufactura metalmecánica."
           }
         ],
         "correct": "A",
@@ -297,7 +297,7 @@
       },
       {
         "number": 13,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria metalmecánica:",
         "options": [
           {
             "label": "A",
@@ -313,7 +313,7 @@
           },
           {
             "label": "D",
-            "text": "Todas son correctas. Industria metalmecánica"
+            "text": "Todas son correctas."
           }
         ],
         "correct": "A",
@@ -321,7 +321,7 @@
       },
       {
         "number": 14,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria metalmecánica",
         "options": [
           {
             "label": "A",
@@ -337,7 +337,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las opciones anteriores son correctas. Industria metalmecánica"
+            "text": "Todas las opciones anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -345,7 +345,7 @@
       },
       {
         "number": 15,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria metalmecánica",
         "options": [
           {
             "label": "A",
@@ -361,7 +361,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las respuestas son incorrectas. Los procesos de formado en la industria metalmecánica incluyen:"
+            "text": "Todas las respuestas son incorrectas."
           }
         ],
         "correct": "A",
@@ -369,7 +369,7 @@
       },
       {
         "number": 16,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Los procesos de formado en la industria metalmecánica incluyen:",
         "options": [
           {
             "label": "A",
@@ -385,7 +385,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las opciones son correctas Industria petroquímica y plástica"
+            "text": "Todas las opciones son correctas"
           }
         ],
         "correct": "A",
@@ -393,7 +393,7 @@
       },
       {
         "number": 17,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria petroquímica y plástica",
         "options": [
           {
             "label": "A",
@@ -409,7 +409,7 @@
           },
           {
             "label": "D",
-            "text": "La fabricación de agropartes y de maquinarias terminadas forman parte de la segunda transformación. Petroquímica y plásticos Explique de manera sintética a qué nos referimos cuando hablamos de COPOLÍMEROS RANDOM y cuáles son sus principales usos. Explique de manera sintética a qué nos referimos cuando hablamos de COPOLÍMEROS DE IMPACTO y cuáles son los principales usos ¿Cuáles son las propiedades físicas del polipropileno? Industria petroquímica y plástica"
+            "text": "La fabricación de agropartes y de maquinarias terminadas forman parte de la segunda transformación. Petroquímica y plásticos Explique de manera sintética a qué nos referimos cuando hablamos de COPOLÍMEROS RANDOM y cuáles son sus principales usos. Explique de manera sintética a qué nos referimos cuando hablamos de COPOLÍMEROS DE IMPACTO y cuáles son los principales usos ¿Cuáles son las propiedades físicas del polipropileno?"
           }
         ],
         "correct": "A",
@@ -417,7 +417,7 @@
       },
       {
         "number": 18,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria petroquímica y plástica",
         "options": [
           {
             "label": "A",
@@ -449,7 +449,7 @@
           },
           {
             "label": "H",
-            "text": "Todas las respuestas anteriores son correctas. Industria petroquímica ¿Cuál es una característica fundamental de la polimerización por adición?"
+            "text": "Todas las respuestas anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -457,7 +457,7 @@
       },
       {
         "number": 19,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria petroquímica ¿Cuál es una característica fundamental de la polimerización por adición?",
         "options": [
           {
             "label": "A",
@@ -473,7 +473,7 @@
           },
           {
             "label": "D",
-            "text": "Solo ocurre a bajas temperaturas. Luego de su primer uso, ¿cuál es el principal destino de los plásticos en la Argentina?"
+            "text": "Solo ocurre a bajas temperaturas."
           }
         ],
         "correct": "A",
@@ -481,7 +481,7 @@
       },
       {
         "number": 20,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Luego de su primer uso, ¿cuál es el principal destino de los plásticos en la Argentina?",
         "options": [
           {
             "label": "A",
@@ -497,7 +497,7 @@
           },
           {
             "label": "D",
-            "text": "Relleno sanitario El ingreso de hidrogeno al reactor de un proceso Novolen para la producción de PP sirve para:"
+            "text": "Relleno sanitario"
           }
         ],
         "correct": "A",
@@ -505,7 +505,7 @@
       },
       {
         "number": 21,
-        "question": "Mosto y derivados vínicos:",
+        "question": "El ingreso de hidrogeno al reactor de un proceso Novolen para la producción de PP sirve para:",
         "options": [
           {
             "label": "A",
@@ -525,7 +525,7 @@
           },
           {
             "label": "E",
-            "text": "Ninguna respuesta es correcta. En la tecnología Novolen, para la producción de polipropileno de grado copolímero de impacto se necesita (seleccione una):"
+            "text": "Ninguna respuesta es correcta."
           }
         ],
         "correct": "A",
@@ -533,7 +533,7 @@
       },
       {
         "number": 22,
-        "question": "Mosto y derivados vínicos:",
+        "question": "En la tecnología Novolen, para la producción de polipropileno de grado copolímero de impacto se necesita (seleccione una):",
         "options": [
           {
             "label": "A",
@@ -549,7 +549,7 @@
           },
           {
             "label": "D",
-            "text": "2 reactores en paralelo Cemento ¿Cuáles son las materias primas e insumos críticos en la industria del cemento? Analice la capacidad instalada en la industria del cemento y su evolución en los últimos años. Industria del cemento"
+            "text": "2 reactores en paralelo Cemento ¿Cuáles son las materias primas e insumos críticos en la industria del cemento? Analice la capacidad instalada en la industria del cemento y su evolución en los últimos años."
           }
         ],
         "correct": "A",
@@ -557,7 +557,7 @@
       },
       {
         "number": 23,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria del cemento",
         "options": [
           {
             "label": "A",
@@ -573,7 +573,7 @@
           },
           {
             "label": "D",
-            "text": "El aporte de puzolana, que puede ser natural o artificial, apunta a mejorar la resistencia en edades prolongadas. Industria cementicia"
+            "text": "El aporte de puzolana, que puede ser natural o artificial, apunta a mejorar la resistencia en edades prolongadas."
           }
         ],
         "correct": "A",
@@ -581,7 +581,7 @@
       },
       {
         "number": 24,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria cementicia",
         "options": [
           {
             "label": "A",
@@ -597,7 +597,7 @@
           },
           {
             "label": "D",
-            "text": "En el cemento siderúrgico se elimina el yeso y se adicionan minerales de alúmina, éste resiste muy bien los ácidos y las altas temperaturas. Industria cementicia"
+            "text": "En el cemento siderúrgico se elimina el yeso y se adicionan minerales de alúmina, éste resiste muy bien los ácidos y las altas temperaturas."
           }
         ],
         "correct": "A",
@@ -605,7 +605,7 @@
       },
       {
         "number": 25,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria cementicia",
         "options": [
           {
             "label": "A",
@@ -621,7 +621,7 @@
           },
           {
             "label": "D",
-            "text": "El coprocesamiento reduce el impacto ambiental, al utilizar los gases exhaustos del horno para la generación de energía eléctrica en la planta. ¿Qué características del horno rotativo son fundamentales para garantizar un proceso eficiente de clinkerización del cemento?"
+            "text": "El coprocesamiento reduce el impacto ambiental, al utilizar los gases exhaustos del horno para la generación de energía eléctrica en la planta."
           }
         ],
         "correct": "A",
@@ -629,7 +629,7 @@
       },
       {
         "number": 26,
-        "question": "Mosto y derivados vínicos:",
+        "question": "¿Qué características del horno rotativo son fundamentales para garantizar un proceso eficiente de clinkerización del cemento?",
         "options": [
           {
             "label": "A",
@@ -645,7 +645,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las opciones anteriores son correctas. Durante la molienda del crudo, se observa una baja eficiencia en la separación de partículas en el ciclón. ¿Qué impacto tendría esto en el proceso y cómo podría solucionarse?"
+            "text": "Todas las opciones anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -653,7 +653,7 @@
       },
       {
         "number": 27,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Durante la molienda del crudo, se observa una baja eficiencia en la separación de partículas en el ciclón. ¿Qué impacto tendría esto en el proceso y cómo podría solucionarse?",
         "options": [
           {
             "label": "A",
@@ -669,7 +669,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las opciones anteriores son correctas. ¿Cuál de las siguientes afirmaciones describe correctamente una etapa del proceso productivo del cemento?"
+            "text": "Todas las opciones anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -677,7 +677,7 @@
       },
       {
         "number": 28,
-        "question": "Mosto y derivados vínicos:",
+        "question": "¿Cuál de las siguientes afirmaciones describe correctamente una etapa del proceso productivo del cemento?",
         "options": [
           {
             "label": "A",
@@ -693,7 +693,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las anteriores son correctas. Automotriz ¿? Haga el diagrama de la cadena técnica de valor de valor del complejo automotriz ¿qué diferencias observa con la fabricación de maquinaria agrícola? ¿? Haga el gráfico de la cadena técnica de valor de la maquinaria agrícola ¿qué diferencias observa con la industria automotriz? Industria automotriz"
+            "text": "Todas las anteriores son correctas. Automotriz ¿? Haga el diagrama de la cadena técnica de valor de valor del complejo automotriz ¿qué diferencias observa con la fabricación de maquinaria agrícola? ¿? Haga el gráfico de la cadena técnica de valor de la maquinaria agrícola ¿qué diferencias observa con la industria automotriz?"
           }
         ],
         "correct": "A",
@@ -701,7 +701,7 @@
       },
       {
         "number": 29,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria automotriz",
         "options": [
           {
             "label": "A",
@@ -717,7 +717,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las respuestas anteriores es correcta. Industria automotriz"
+            "text": "Ninguna de las respuestas anteriores es correcta."
           }
         ],
         "correct": "A",
@@ -725,7 +725,7 @@
       },
       {
         "number": 30,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria automotriz",
         "options": [
           {
             "label": "A",
@@ -741,7 +741,7 @@
           },
           {
             "label": "D",
-            "text": "La participación de EE UU en el mercado automotriz internacional, ha decaído considerablemente desde 1950. Industria automotriz argentina"
+            "text": "La participación de EE UU en el mercado automotriz internacional, ha decaído considerablemente desde 1950."
           }
         ],
         "correct": "A",
@@ -749,7 +749,7 @@
       },
       {
         "number": 31,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria automotriz argentina",
         "options": [
           {
             "label": "A",
@@ -765,7 +765,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las opciones anteriores es correcta. Celulosa y papel Explique el proceso productivo de la celulosa (desde la caña de azúcar hasta la obtención de la pasta de celulosa) Explique el proceso productivo del papel (desde la pasta de celulosa hasta la obtención del papel). Industria celulósica papelera"
+            "text": "Ninguna de las opciones anteriores es correcta. Celulosa y papel Explique el proceso productivo de la celulosa (desde la caña de azúcar hasta la obtención de la pasta de celulosa) Explique el proceso productivo del papel (desde la pasta de celulosa hasta la obtención del papel)."
           }
         ],
         "correct": "A",
@@ -773,7 +773,7 @@
       },
       {
         "number": 32,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria celulósica papelera",
         "options": [
           {
             "label": "A",
@@ -789,7 +789,7 @@
           },
           {
             "label": "D",
-            "text": "Normalmente, las industrias argentinas del sector integran las dos grandes etapas de la cadena (celulosa, papel y cartón). Industria de la celulosa y el papel:"
+            "text": "Normalmente, las industrias argentinas del sector integran las dos grandes etapas de la cadena (celulosa, papel y cartón)."
           }
         ],
         "correct": "A",
@@ -797,7 +797,7 @@
       },
       {
         "number": 33,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria de la celulosa y el papel:",
         "options": [
           {
             "label": "A",
@@ -813,7 +813,7 @@
           },
           {
             "label": "D",
-            "text": "Las plantas de celulosa nacionales se ubican principalmente en la región centro de Argentina. Industria de la celulosa y el papel"
+            "text": "Las plantas de celulosa nacionales se ubican principalmente en la región centro de Argentina."
           }
         ],
         "correct": "A",
@@ -821,7 +821,7 @@
       },
       {
         "number": 34,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria de la celulosa y el papel",
         "options": [
           {
             "label": "A",
@@ -837,7 +837,7 @@
           },
           {
             "label": "D",
-            "text": "En el proceso de formación de papel, la etapa de prensado húmedo es responsable de extraer un 85% del agua de la hoja. Industria del papel y la celulosa"
+            "text": "En el proceso de formación de papel, la etapa de prensado húmedo es responsable de extraer un 85% del agua de la hoja."
           }
         ],
         "correct": "A",
@@ -845,7 +845,7 @@
       },
       {
         "number": 35,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria del papel y la celulosa",
         "options": [
           {
             "label": "A",
@@ -861,7 +861,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las opciones anteriores son correctas. En la industria del papel (selecciona una o más de una):"
+            "text": "Todas las opciones anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -869,7 +869,7 @@
       },
       {
         "number": 36,
-        "question": "Mosto y derivados vínicos:",
+        "question": "En la industria del papel (selecciona una o más de una):",
         "options": [
           {
             "label": "A",
@@ -885,7 +885,7 @@
           },
           {
             "label": "D",
-            "text": "El método termo mecánico produce fibras largas de celulosa que dan lugar a un papel de gran resistencia mecánica. Una de las fuentes para la obtención de pasta celulósica es el reciclaje de papel y cartón:"
+            "text": "El método termo mecánico produce fibras largas de celulosa que dan lugar a un papel de gran resistencia mecánica."
           }
         ],
         "correct": "A",
@@ -893,7 +893,7 @@
       },
       {
         "number": 37,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Una de las fuentes para la obtención de pasta celulósica es el reciclaje de papel y cartón:",
         "options": [
           {
             "label": "A",
@@ -905,7 +905,7 @@
           },
           {
             "label": "C",
-            "text": "Es preciso eliminar tintas (destintado) de la materia prima, para ello se añaden a la pulpa compuestos que solubilizan estas sustancias en la corriente de lavado, que se descarta del proceso. → F, los tensioactivos sí solubilizan pero no es una corriente de lavado es por flotación con burbujas de aire. 4. Todas las respuestas anteriores son incorrectas. Aluminio Desarrolle completa y detalladamente el proceso Bayer en la industria del aluminio. Resuma en un gráfico las etapas, productos obtenidos y actores de la cadena de valor del aluminio. Aluminio"
+            "text": "Es preciso eliminar tintas (destintado) de la materia prima, para ello se añaden a la pulpa compuestos que solubilizan estas sustancias en la corriente de lavado, que se descarta del proceso. → F, los tensioactivos sí solubilizan pero no es una corriente de lavado es por flotación con burbujas de aire. 4. Todas las respuestas anteriores son incorrectas. Aluminio Desarrolle completa y detalladamente el proceso Bayer en la industria del aluminio. Resuma en un gráfico las etapas, productos obtenidos y actores de la cadena de valor del aluminio."
           }
         ],
         "correct": "A",
@@ -913,7 +913,7 @@
       },
       {
         "number": 38,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Aluminio",
         "options": [
           {
             "label": "A",
@@ -929,7 +929,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las anteriores son correctas. Aluminio - Proceso de obtención"
+            "text": "Todas las anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -937,7 +937,7 @@
       },
       {
         "number": 39,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Aluminio - Proceso de obtención",
         "options": [
           {
             "label": "A",
@@ -953,7 +953,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna respuesta es correcta. Industria del aluminio"
+            "text": "Ninguna respuesta es correcta."
           }
         ],
         "correct": "A",
@@ -961,7 +961,7 @@
       },
       {
         "number": 40,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria del aluminio",
         "options": [
           {
             "label": "A",
@@ -977,7 +977,7 @@
           },
           {
             "label": "D",
-            "text": "Se requieren aproximadamente 2 toneladas de criolita para procesar 100 kg de alúmina y obtener 80 kg de aluminio puro. La criolita es un insumo fundamental en la producción de aluminio"
+            "text": "Se requieren aproximadamente 2 toneladas de criolita para procesar 100 kg de alúmina y obtener 80 kg de aluminio puro."
           }
         ],
         "correct": "A",
@@ -985,7 +985,7 @@
       },
       {
         "number": 41,
-        "question": "Mosto y derivados vínicos:",
+        "question": "La criolita es un insumo fundamental en la producción de aluminio",
         "options": [
           {
             "label": "A",
@@ -1001,7 +1001,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las respuestas anteriores son correctas. En la Industria del Aluminio, a qué se refiere la siguiente fórmula química: Na3AlF6:"
+            "text": "Todas las respuestas anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -1009,7 +1009,7 @@
       },
       {
         "number": 42,
-        "question": "Mosto y derivados vínicos:",
+        "question": "En la Industria del Aluminio, a qué se refiere la siguiente fórmula química: Na3AlF6:",
         "options": [
           {
             "label": "A",
@@ -1025,7 +1025,7 @@
           },
           {
             "label": "D",
-            "text": "Alúmina. Para obtener 1Tn de aluminio necesito:"
+            "text": "Alúmina."
           }
         ],
         "correct": "A",
@@ -1033,7 +1033,7 @@
       },
       {
         "number": 43,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Para obtener 1Tn de aluminio necesito:",
         "options": [
           {
             "label": "A",
@@ -1053,7 +1053,7 @@
           },
           {
             "label": "E",
-            "text": "2 Tn de alúmina, 100kg de criolita, 600 kg de electrodos, 17.000-19.500KWh (energía eléctrica). ¿De qué depende fundamentalmente el rango de parámetros elegido en la etapa de digestión del proceso Bayer?:"
+            "text": "2 Tn de alúmina, 100kg de criolita, 600 kg de electrodos, 17.000-19.500KWh (energía eléctrica)."
           }
         ],
         "correct": "A",
@@ -1061,7 +1061,7 @@
       },
       {
         "number": 44,
-        "question": "Mosto y derivados vínicos:",
+        "question": "¿De qué depende fundamentalmente el rango de parámetros elegido en la etapa de digestión del proceso Bayer?:",
         "options": [
           {
             "label": "A",
@@ -1077,7 +1077,7 @@
           },
           {
             "label": "D",
-            "text": "2 y 3 son correctas. Construcción ¿Cuál es y cómo se construye el principal indicador de actividad del sector construcción en el país, elaborado por el INDEC? Comente los principales factores de la industria de la construcción intervinientes en el mercado de servicios infraestructura Industria de la construcción nacional"
+            "text": "2 y 3 son correctas. Construcción ¿Cuál es y cómo se construye el principal indicador de actividad del sector construcción en el país, elaborado por el INDEC? Comente los principales factores de la industria de la construcción intervinientes en el mercado de servicios infraestructura"
           }
         ],
         "correct": "A",
@@ -1085,7 +1085,7 @@
       },
       {
         "number": 45,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria de la construcción nacional",
         "options": [
           {
             "label": "A",
@@ -1101,7 +1101,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las respuestas anteriores son correctas Industria de la construcción"
+            "text": "Todas las respuestas anteriores son correctas"
           }
         ],
         "correct": "A",
@@ -1109,7 +1109,7 @@
       },
       {
         "number": 46,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria de la construcción",
         "options": [
           {
             "label": "A",
@@ -1125,7 +1125,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las respuestas anteriores es correcta. Industria de la construcción"
+            "text": "Ninguna de las respuestas anteriores es correcta."
           }
         ],
         "correct": "A",
@@ -1133,7 +1133,7 @@
       },
       {
         "number": 47,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria de la construcción",
         "options": [
           {
             "label": "A",
@@ -1149,7 +1149,7 @@
           },
           {
             "label": "D",
-            "text": "Las encuestas cualitativas del INDEC sirven para determinar el aumento porcentual de la actividad sectorial cada trimestre. Gráfica Comente el estado actual de la industria gráfica en argentina Explique las materias primas e insumos utilizados en la industria gráfica Industria gráfica"
+            "text": "Las encuestas cualitativas del INDEC sirven para determinar el aumento porcentual de la actividad sectorial cada trimestre. Gráfica Comente el estado actual de la industria gráfica en argentina Explique las materias primas e insumos utilizados en la industria gráfica"
           }
         ],
         "correct": "A",
@@ -1157,7 +1157,7 @@
       },
       {
         "number": 48,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria gráfica",
         "options": [
           {
             "label": "A",
@@ -1173,7 +1173,7 @@
           },
           {
             "label": "D",
-            "text": "En la flexografía, la impresión es directa mediante planchas flexibles foto poliméricas con huecos rellenos de tinta. Industria gráfica"
+            "text": "En la flexografía, la impresión es directa mediante planchas flexibles foto poliméricas con huecos rellenos de tinta."
           }
         ],
         "correct": "A",
@@ -1181,7 +1181,7 @@
       },
       {
         "number": 49,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria gráfica",
         "options": [
           {
             "label": "A",
@@ -1197,7 +1197,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las respuestas anteriores son correctas. El proceso de impresión offset, ¿por qué se considera un método de impresión indirecto?"
+            "text": "Todas las respuestas anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -1205,7 +1205,7 @@
       },
       {
         "number": 50,
-        "question": "Mosto y derivados vínicos:",
+        "question": "El proceso de impresión offset, ¿por qué se considera un método de impresión indirecto?",
         "options": [
           {
             "label": "A",
@@ -1221,7 +1221,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las opciones anteriores es correcta. En la industria gráfica:"
+            "text": "Ninguna de las opciones anteriores es correcta."
           }
         ],
         "correct": "A",
@@ -1229,7 +1229,7 @@
       },
       {
         "number": 51,
-        "question": "Mosto y derivados vínicos:",
+        "question": "En la industria gráfica:",
         "options": [
           {
             "label": "A",
@@ -1245,7 +1245,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las anteriores es correcta. Textil Comente la situación de la industria textil en Mendoza. Industria textil"
+            "text": "Ninguna de las anteriores es correcta. Textil Comente la situación de la industria textil en Mendoza."
           }
         ],
         "correct": "A",
@@ -1253,7 +1253,7 @@
       },
       {
         "number": 52,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria textil",
         "options": [
           {
             "label": "A",
@@ -1269,7 +1269,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las respuestas son incorrectas. Industria textil"
+            "text": "Todas las respuestas son incorrectas."
           }
         ],
         "correct": "A",
@@ -1277,7 +1277,7 @@
       },
       {
         "number": 53,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria textil",
         "options": [
           {
             "label": "A",
@@ -1293,7 +1293,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las respuestas anteriores es correcta. Industria textil"
+            "text": "Ninguna de las respuestas anteriores es correcta."
           }
         ],
         "correct": "A",
@@ -1301,7 +1301,7 @@
       },
       {
         "number": 54,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria textil",
         "options": [
           {
             "label": "A",
@@ -1317,7 +1317,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las respuestas anteriores es correcta. Industria textil"
+            "text": "Ninguna de las respuestas anteriores es correcta."
           }
         ],
         "correct": "A",
@@ -1325,7 +1325,7 @@
       },
       {
         "number": 55,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria textil",
         "options": [
           {
             "label": "A",
@@ -1341,7 +1341,7 @@
           },
           {
             "label": "D",
-            "text": "El mercerizado de la lana, cambia la apariencia física de la materia prima, elimina impurezas y mejora la capacidad de absorber tintas. Industria Textil. La operación de cardado."
+            "text": "El mercerizado de la lana, cambia la apariencia física de la materia prima, elimina impurezas y mejora la capacidad de absorber tintas."
           }
         ],
         "correct": "A",
@@ -1349,7 +1349,7 @@
       },
       {
         "number": 56,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria Textil. La operación de cardado.",
         "options": [
           {
             "label": "A",
@@ -1365,7 +1365,7 @@
           },
           {
             "label": "D",
-            "text": "Debe realizarse después del secado y antes del blanqueado. Aceite y lubricantes Software y TICs Software, TICs y SBC"
+            "text": "Debe realizarse después del secado y antes del blanqueado. Aceite y lubricantes Software y TICs"
           }
         ],
         "correct": "A",
@@ -1373,7 +1373,7 @@
       },
       {
         "number": 57,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Software, TICs y SBC",
         "options": [
           {
             "label": "A",
@@ -1389,7 +1389,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las respuestas anteriores son correctas. Software, TIC's y SBC"
+            "text": "Todas las respuestas anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -1397,7 +1397,7 @@
       },
       {
         "number": 58,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Software, TIC's y SBC",
         "options": [
           {
             "label": "A",
@@ -1413,7 +1413,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las respuestas anteriores es correcta. Software, TIC's y SBC"
+            "text": "Ninguna de las respuestas anteriores es correcta."
           }
         ],
         "correct": "A",
@@ -1421,7 +1421,7 @@
       },
       {
         "number": 59,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Software, TIC's y SBC",
         "options": [
           {
             "label": "A",
@@ -1437,7 +1437,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las opciones anteriores son correctas. Telecomunicaciones Mencione los principales productos/servicios que brinda la industria de las telecomunicaciones Industria de las telecomunicaciones"
+            "text": "Todas las opciones anteriores son correctas. Telecomunicaciones Mencione los principales productos/servicios que brinda la industria de las telecomunicaciones"
           }
         ],
         "correct": "A",
@@ -1445,7 +1445,7 @@
       },
       {
         "number": 60,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria de las telecomunicaciones",
         "options": [
           {
             "label": "A",
@@ -1461,7 +1461,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las respuestas anteriores son correctas. Según el ENACOM, ¿cuáles son los medios de telecomunicaciones más utilizados en el país, en orden de importancia?"
+            "text": "Todas las respuestas anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -1469,7 +1469,7 @@
       },
       {
         "number": 61,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Según el ENACOM, ¿cuáles son los medios de telecomunicaciones más utilizados en el país, en orden de importancia?",
         "options": [
           {
             "label": "A",
@@ -1485,7 +1485,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las opciones anteriores es correcta. Fluvial y marítima Industria fluvial y marítima de Argentina"
+            "text": "Ninguna de las opciones anteriores es correcta. Fluvial y marítima"
           }
         ],
         "correct": "A",
@@ -1493,7 +1493,7 @@
       },
       {
         "number": 62,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria fluvial y marítima de Argentina",
         "options": [
           {
             "label": "A",
@@ -1509,7 +1509,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las respuestas anteriores son correctas. ¿Cuáles son los principales productos transportados por la Hidrovía Paraguay-Paraná?"
+            "text": "Todas las respuestas anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -1517,7 +1517,7 @@
       },
       {
         "number": 63,
-        "question": "Mosto y derivados vínicos:",
+        "question": "¿Cuáles son los principales productos transportados por la Hidrovía Paraguay-Paraná?",
         "options": [
           {
             "label": "A",
@@ -1533,7 +1533,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las opciones anteriores son correctas. ¿ Cuál es el puerto argentino más importante en términos de transporte de productos agroindustriales?"
+            "text": "Todas las opciones anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -1541,7 +1541,7 @@
       },
       {
         "number": 64,
-        "question": "Mosto y derivados vínicos:",
+        "question": "¿ Cuál es el puerto argentino más importante en términos de transporte de productos agroindustriales?",
         "options": [
           {
             "label": "A",
@@ -1557,7 +1557,7 @@
           },
           {
             "label": "D",
-            "text": "Puerto de Zárate. ¿Cuál de las siguientes afirmaciones refleja con mayor precisión la Importancia del sistema portuario y fluvial argentino en la economía nacional?"
+            "text": "Puerto de Zárate."
           }
         ],
         "correct": "A",
@@ -1565,7 +1565,7 @@
       },
       {
         "number": 65,
-        "question": "Mosto y derivados vínicos:",
+        "question": "¿Cuál de las siguientes afirmaciones refleja con mayor precisión la Importancia del sistema portuario y fluvial argentino en la economía nacional?",
         "options": [
           {
             "label": "A",
@@ -1577,7 +1577,7 @@
           },
           {
             "label": "C",
-            "text": "La Hidrovia Paraguay-Paraná es utilizada mayormente para transporte regional de combustibles y tiene un impacto marginal en la competitividad exportadora argentina. 4. Ninguna de las anteriores es correcta. Farmacéutica Industria farmacéutica"
+            "text": "La Hidrovia Paraguay-Paraná es utilizada mayormente para transporte regional de combustibles y tiene un impacto marginal en la competitividad exportadora argentina. 4. Ninguna de las anteriores es correcta. Farmacéutica"
           }
         ],
         "correct": "A",
@@ -1585,7 +1585,7 @@
       },
       {
         "number": 66,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria farmacéutica",
         "options": [
           {
             "label": "A",
@@ -1601,7 +1601,7 @@
           },
           {
             "label": "D",
-            "text": "A y C son correctas. Industria farmacéutica y biotecnológica:"
+            "text": "A y C son correctas."
           }
         ],
         "correct": "A",
@@ -1609,7 +1609,7 @@
       },
       {
         "number": 67,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria farmacéutica y biotecnológica:",
         "options": [
           {
             "label": "A",
@@ -1625,7 +1625,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las respuestas anteriores son correctas. Industria farmacéutica y biotecnológica"
+            "text": "Todas las respuestas anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -1633,7 +1633,7 @@
       },
       {
         "number": 68,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria farmacéutica y biotecnológica",
         "options": [
           {
             "label": "A",
@@ -1649,7 +1649,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las respuestas anteriores es correcta. Industria farmacéutica y biotecnológica"
+            "text": "Ninguna de las respuestas anteriores es correcta."
           }
         ],
         "correct": "A",
@@ -1657,7 +1657,7 @@
       },
       {
         "number": 69,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Industria farmacéutica y biotecnológica",
         "options": [
           {
             "label": "A",
@@ -1673,7 +1673,7 @@
           },
           {
             "label": "D",
-            "text": "Es un sector destacado por el uso intensivo en tecnología y sus altos precios, muy poco trascendente en la generación de empleo industrial. Tratamiento de efluentes Tratamiento de residuos líquidos industriales"
+            "text": "Es un sector destacado por el uso intensivo en tecnología y sus altos precios, muy poco trascendente en la generación de empleo industrial. Tratamiento de efluentes"
           }
         ],
         "correct": "A",
@@ -1681,7 +1681,7 @@
       },
       {
         "number": 70,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Tratamiento de residuos líquidos industriales",
         "options": [
           {
             "label": "A",
@@ -1697,7 +1697,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las respuestas anteriores son correctas. Tratamiento de agua industrial"
+            "text": "Todas las respuestas anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -1705,7 +1705,7 @@
       },
       {
         "number": 71,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Tratamiento de agua industrial",
         "options": [
           {
             "label": "A",
@@ -1721,7 +1721,7 @@
           },
           {
             "label": "D",
-            "text": "Ninguna de las respuestas anteriores es correcta. Tratamiento de efluentes industriales"
+            "text": "Ninguna de las respuestas anteriores es correcta."
           }
         ],
         "correct": "A",
@@ -1729,7 +1729,7 @@
       },
       {
         "number": 72,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Tratamiento de efluentes industriales",
         "options": [
           {
             "label": "A",
@@ -1745,7 +1745,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las opciones anteriores son correctas. Los parámetros DBO y DQO en efluentes industriales (Seleccione una o más de una):"
+            "text": "Todas las opciones anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -1753,7 +1753,7 @@
       },
       {
         "number": 73,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Los parámetros DBO y DQO en efluentes industriales (Seleccione una o más de una):",
         "options": [
           {
             "label": "A",
@@ -1769,7 +1769,7 @@
           },
           {
             "label": "D",
-            "text": "La elección entre determinar una u otra dependerá de los recursos del laboratorio. Gestión de residuos sólidos Los Residuos Patogénicos:"
+            "text": "La elección entre determinar una u otra dependerá de los recursos del laboratorio. Gestión de residuos sólidos"
           }
         ],
         "correct": "A",
@@ -1777,7 +1777,7 @@
       },
       {
         "number": 74,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Los Residuos Patogénicos:",
         "options": [
           {
             "label": "A",
@@ -1793,7 +1793,7 @@
           },
           {
             "label": "D",
-            "text": "Todas las anteriores son correctas. Generación de residuos industriales sólidos"
+            "text": "Todas las anteriores son correctas."
           }
         ],
         "correct": "A",
@@ -1801,7 +1801,7 @@
       },
       {
         "number": 75,
-        "question": "Mosto y derivados vínicos:",
+        "question": "Generación de residuos industriales sólidos",
         "options": [
           {
             "label": "A",

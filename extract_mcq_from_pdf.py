@@ -2,176 +2,134 @@ import json
 import re
 from pathlib import Path
 
-import fitz  # PyMuPDF
-
-PDF_PATH = Path("Preguntas P2.pdf")
-OUTPUT_PATH = Path("mcq_from_pdf.json")
+TXT_PATH = Path("Preguntas P2.txt")
+OUTPUT_PATH = Path("mcq_from_txt.json")
 
 
-def extract_text(pdf_path: Path) -> list[str]:
-    """Devuelve una lista de líneas limpias de todo el PDF."""
-    doc = fitz.open(pdf_path)
-    lines: list[str] = []
-    for page in doc:
-        txt = page.get_text()
-        for raw_line in txt.split("\n"):
-            line = raw_line.strip()
-            if line:
-                lines.append(line)
-    return lines
+def load_lines(path: Path):
+    """Lee el TXT y devuelve una lista de líneas sin blancos."""
+    with open(path, "r", encoding="utf-8") as f:
+        text = f.read()
+    # Normalizar saltos y limpiar
+    lines = [l.strip() for l in text.splitlines()]
+    # Quitamos líneas completamente vacías
+    return [l for l in lines if l]
 
 
-def parse_blocks_as_mcq(lines: list[str]):
+num_re = re.compile(r"^(\d+)\.\s*(.*)")
+
+
+def parse_questions(lines):
     """
-    Interpreta el PDF como bloques del tipo:
-
-    TÍTULO DEL TEMA:
-    1. opción 1
-    2. opción 2
-    3. opción 3
-    4. opción 4
-
-    Cada bloque (1–4) se convierte en UNA pregunta,
-    usando el título previo como enunciado.
-
-    Si aparece texto como:
-      - 'Mosto y derivados vínicos:'
-      - 'El aglomerado y el MDF:'
-    lo tomamos como título/encabezado.
+    Reglas:
+    - Cualquier línea NO numerada se toma como posible 'encabezado'.
+      El encabezado vigente se usará como 'question' cuando aparezca un bloque 1..n.
+    - Un bloque de opciones comienza cuando aparece '1.'.
+    - Mientras haya líneas numeradas 1., 2., 3., 4. (5. etc) seguimos agregando opciones.
+    - Cuando vuelve a aparecer un '1.' o termina el archivo, cerramos la pregunta.
+    - Las opciones pueden estar como:
+        '1.' (línea siguiente = texto)
+        '1. texto...' (todo en una línea)
+      y pueden tener continuaciones en varias líneas.
     """
 
     questions = []
-    current_title = None
-    current_options: list[str] = []
-    question_number = 1
+    current_title = None      # último encabezado leído
+    in_options = False
+    current_options = []      # lista de textos de opciones en el bloque actual
+    current_option_index = None
+    q_number = 1
 
-    num_re = re.compile(r"^(\d+)\.\s*(.*)")
+    def flush_question():
+        nonlocal q_number, current_options
+        if not current_options:
+            return
+        # Asignar labels A, B, C, D, E,... según cantidad de opciones
+        labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        options_struct = []
+        for i, text in enumerate(current_options):
+            label = labels[i]
+            options_struct.append({"label": label, "text": text.strip()})
+
+        question_text = current_title or "Seleccione la opción correcta."
+
+        questions.append({
+            "number": q_number,
+            "question": question_text,
+            "options": options_struct,
+            "correct": "A",      # por defecto
+            "explanation": ""
+        })
+        q_number += 1
+        current_options = []
 
     for line in lines:
-        # ¿Es una línea numerada tipo "1. ..."?
-        m_num = num_re.match(line)
-        if m_num:
-            num = int(m_num.group(1))
-            text = m_num.group(2).strip()
+        m = num_re.match(line)
 
-            # Si empezamos un nuevo bloque con "1.", reiniciamos opciones
-            if num == 1 and current_options:
-                # Si había opciones colgadas (por seguridad, por si no eran 4 exactas)
-                if len(current_options) == 4:
-                    questions.append(
-                        build_question(
-                            question_number,
-                            current_title,
-                            current_options
-                        )
-                    )
-                    question_number += 1
-                # Reiniciamos el bloque de opciones
-                current_options = []
+        if m:
+            # Línea numerada tipo "1." o "1. texto"
+            num = int(m.group(1))
+            rest = m.group(2).strip()
 
-            # Agregamos la opción (1,2,3,4)
-            # aunque el número no lo usamos directamente,
-            # el orden define A,B,C,D
-            current_options.append(text)
+            # Si aparece un 1. y ya estábamos en un bloque de opciones,
+            # cerramos la pregunta anterior y arrancamos una nueva.
+            if num == 1 and in_options and current_options:
+                flush_question()
 
-            # Si ya tenemos 4 opciones, cerramos un bloque de pregunta
-            if len(current_options) == 4:
-                questions.append(
-                    build_question(
-                        question_number,
-                        current_title,
-                        current_options
-                    )
-                )
-                question_number += 1
-                current_options = []
+            # Entramos (o seguimos) modo opciones
+            in_options = True
+            current_option_index = num  # 1, 2, 3, ...
 
-            continue
+            # Asegurar longitud de lista de opciones
+            while len(current_options) < num:
+                current_options.append("")
 
-        # Si NO es una línea numerada, puede ser:
-        # - Título de tema (termina en ":" o está en mayúsculas)
-        # - Consigna tipo "El aglomerado y el MDF:"
-        # Lo usamos como "enunciado" base para las siguientes 1–4.
-        # Si no querés títulos muy genéricos, podés ajustar este heurístico.
-        if (
-            line.endswith(":")
-            or line.istitle()
-            or line.isupper()
-        ):
-            current_title = line
-            continue
+            # Si hay texto en la misma línea, lo ponemos; si no, se completará
+            # con las siguientes líneas no numeradas.
+            if rest:
+                current_options[num - 1] = (
+                    current_options[num - 1] + " " + rest
+                ).strip()
 
-        # Si es otro texto (instrucciones tipo "Haga un diagrama..."), lo ignoramos
-        # porque no forman multiple choice.
+        else:
+            # NO es una línea numerada
+            if in_options:
+                # Estamos dentro de un bloque de opciones:
+                # esto es continuación de la última opción.
+                if current_option_index is not None and current_options:
+                    idx = current_option_index - 1
+                    current_options[idx] = (
+                        current_options[idx] + " " + line
+                    ).strip()
+            else:
+                # No estamos en opciones → actualizar encabezado
+                current_title = line
 
-
-    # Por si al final quedó un bloque incompleto con opciones
-    if current_options:
-        if len(current_options) == 4:
-            questions.append(
-                build_question(
-                    question_number,
-                    current_title,
-                    current_options
-                )
-            )
+    # Fin del archivo: cerrar último bloque si había
+    if in_options and current_options:
+        flush_question()
 
     return questions
 
 
-def build_question(q_number: int, title: str | None, options_texts: list[str]) -> dict:
-    """
-    Construye el diccionario de pregunta en el formato que usa tu proyecto.
-
-    - title: encabezado del tema (puede ser None)
-    - options_texts: lista de 4 strings → A,B,C,D
-    """
-    if len(options_texts) != 4:
-        # Seguridad: rellenar o recortar por si algo raro pasa
-        options_texts = (options_texts + [""] * 4)[:4]
-
-    # Enunciado de la pregunta: si hay título, lo usamos;
-    # si no, ponemos algo genérico.
-    if title:
-        question_text = title
-    else:
-        question_text = "Seleccione la opción correcta según el enunciado."
-
-    option_labels = ["A", "B", "C", "D"]
-    options = [
-        {"label": label, "text": text}
-        for label, text in zip(option_labels, options_texts)
-    ]
-
-    return {
-        "number": q_number,
-        "question": question_text,
-        "options": options,
-        "correct": "A",      # por defecto, después las corregís vos
-        "explanation": ""
-    }
-
-
 def main():
-    if not PDF_PATH.exists():
-        print(f"No se encontró el PDF: {PDF_PATH}")
+    if not TXT_PATH.exists():
+        print(f"No se encontró el TXT: {TXT_PATH}")
         return
 
-    print("Leyendo PDF y extrayendo líneas...")
-    lines = extract_text(PDF_PATH)
+    print(f"Leyendo TXT: {TXT_PATH}")
+    lines = load_lines(TXT_PATH)
 
-    print("Parseando bloques 1–4 como preguntas...")
-    questions = parse_blocks_as_mcq(lines)
+    print("Parseando preguntas...")
+    questions = parse_questions(lines)
 
     print(f"Preguntas detectadas: {len(questions)}")
 
-    data = [
-        {
-            "pdf_name": PDF_PATH.name,
-            "chunk_id": 0,
-            "questions": questions,
-        }
-    ]
+    data = [{
+        "pdf_name": "Preguntas P2.pdf",
+        "chunk_id": 0,
+        "questions": questions
+    }]
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)

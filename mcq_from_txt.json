@@ -1,0 +1,1828 @@
+[
+  {
+    "pdf_name": "Preguntas P2.pdf",
+    "chunk_id": 0,
+    "questions": [
+      {
+        "number": 1,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mientras más elevada sea la acidez y el contenido de azúcar del mosto, el sulfitado requerirá mayor cantidad de SO2."
+          },
+          {
+            "label": "B",
+            "text": "Como materia prima, el cremor tártaro suele tener mayor riqueza tartárica y humedad que el tártaro."
+          },
+          {
+            "label": "C",
+            "text": "El desulfitado del mosto se realiza en torres de intercambio donde se aporta vapor a presión elevada en contracorriente."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna respuesta es correcta Derivados vínicos"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 2,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "La obtención de tartrato de calcio es la etapa previa para la producción de ácido tartárico, si se parte de borras se realiza una cristalización seguida de una separación en hidrociclón y posterior secado."
+          },
+          {
+            "label": "B",
+            "text": "La industria nacional de los derivados vínicos puede considerarse un sector marcadamente concentrado."
+          },
+          {
+            "label": "C",
+            "text": "La ley de borras es una norma que se estableció con el fin de incentivar al sector, el acuerdo Mendoza - San Juan persigue objetivos más centrados en el control y la regulación comercial del mismo."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas. Derivados vínicos"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 3,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El ácido metatartárico es un derivado de la industria vínica que se emplea para estabilizar al mosto inhibiendo su fermentación."
+          },
+          {
+            "label": "B",
+            "text": "Las borras sólidas son una de las materias primas más empleadas en la industria, provenientes de la etapa de prensado de la uva."
+          },
+          {
+            "label": "C",
+            "text": "El crémor tártaro es un producto intermedio en el proceso de obtención del ácido tartárico, previo a la fase de calentamiento y filtración."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta. Derivados vínicos"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 4,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Para la producción de ácido tartárico elemental no pueden utilizarse materias primas previamente fermentadas."
+          },
+          {
+            "label": "B",
+            "text": "El ácido tartárico se utiliza principalmente como agente estabilizante para evitar la formación de cristales tartáricos en el vino."
+          },
+          {
+            "label": "C",
+            "text": "El cremor tártaro tiene aplicaciones farmacéuticas (es antioxidante y anticristalizante) y sirve para preparación de soluciones buffer."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las opciones anteriores es correcta. En la obtención de tartrato cálcico a partir del orujo:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 5,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Luego de un lavado con agua caliente, se obtiene como subproducto orujo agotado, a su vez materia prima para el aceite de pepitas de uva."
+          },
+          {
+            "label": "B",
+            "text": "Se realiza una destilación a través de sucesivas columnas, de donde surgen más subproductos como el \"aguardiente de vino\"."
+          },
+          {
+            "label": "C",
+            "text": "Las vinazas procedentes de la destilación son sometidas a una acidificación con HCI, seguida luego de una neutralización parcial mediante carbonato cálcico y cal, hasta un pH de alrededor de 5.5."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es incorrecta. Madera Haga un diagrama de flujo de proceso de impregnación de maderas con preservantes y explique brevemente cada etapa Haga el flujo de proceso de fabricación de tableros de madera y describa brevemente 3 tipos distintos de tableros. Mencione y grafique las capas que forman un tronco de árbol En la industria de base forestal y madera, mencione al menos 5 subsectores de la misma. El aglomerado y el MDF:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 6,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Son dos ejemplos de tableros de partículas."
+          },
+          {
+            "label": "B",
+            "text": "Son prácticamente iguales, solo difieren en el tamaño de las partículas que se aglomeran."
+          },
+          {
+            "label": "C",
+            "text": "Son menos adecuados que el OSB para aplicaciones estructurales."
+          },
+          {
+            "label": "D",
+            "text": "Todas las anteriores son correctas. Madera laminada."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 7,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Su fabricación implica operarios calificados y equipos complejos."
+          },
+          {
+            "label": "B",
+            "text": "Por su elevada resistencia, mejora el costo de una pieza maciza de similar tamaño, en aplicaciones estructurales."
+          },
+          {
+            "label": "C",
+            "text": "Posee menor estabilidad dimensional que la madera maciza."
+          },
+          {
+            "label": "D",
+            "text": "En Argentina comúnmente se fabrica con madera de cedro o álamo. En el proceso de impregnación de maderas con preservantes:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 8,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Se hace una sola vez el proceso de vacío."
+          },
+          {
+            "label": "B",
+            "text": "Se hace vacío en dos oportunidades."
+          },
+          {
+            "label": "C",
+            "text": "Se hace solo presión para inyectar el preservante."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las opciones anteriores es correcta. ¿Cuál(es) de las siguientes afirmaciones considera incorrecta(s) respecto a los tableros de aglomerado y OSB?:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 9,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Similar principio de fabricación, pero uno de ellos tiene en cuenta la orientación de la madera en las capas."
+          },
+          {
+            "label": "B",
+            "text": "Tienen diferentes proceso de fabricación y ambos se usan principalmente en muebles."
+          },
+          {
+            "label": "C",
+            "text": "Ambos son tableros de partículas y su principal diferencia radica en las propiedades mecánicas."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna incorrecta. La composición de la madera es:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 10,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "30%celulosa, 30%hemicelulosa, 30% lignina, 10% otros"
+          },
+          {
+            "label": "B",
+            "text": "50%celulosa, 25%hemicelulosa y 25% lignina"
+          },
+          {
+            "label": "C",
+            "text": "Ninguna opción es verdadera"
+          },
+          {
+            "label": "D",
+            "text": "50%celulosa, 40% lignina, y 10% otras sustancias (resinas, etc.) ¿Qué observación considera acertada sobre las características del sector terciario en la cadena de valor foresto maderera?"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 11,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Comercializa fundamentalmente productos que aportan positivamente a la balanza externa."
+          },
+          {
+            "label": "B",
+            "text": "Incluye muchos establecimientos que integran también el sector secundario."
+          },
+          {
+            "label": "C",
+            "text": "Se centra mayormente en la venta de madera impregnada y rollizos."
+          },
+          {
+            "label": "D",
+            "text": "Es poco tecnificado y tiene alta rotación de personal."
+          },
+          {
+            "label": "E",
+            "text": "Ninguna es correcta. Las maderas impregnadas:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 12,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ambas opciones son correctas"
+          },
+          {
+            "label": "B",
+            "text": "Por lo general tienen mucho duramen"
+          },
+          {
+            "label": "C",
+            "text": "Ninguna es correcta."
+          },
+          {
+            "label": "D",
+            "text": "Por lo general tienen mucha albura Metalmecánica Haga el diagrama de flujo que muestra las distintas operaciones usadas en el proceso de manufactura metalmecánica. Industria metalmecánica:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 13,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Los bienes de capital son bienes de consumos adquiridos para capitalización y ahorro."
+          },
+          {
+            "label": "B",
+            "text": "Los bienes de capital son adquiridos por compañías para la producción"
+          },
+          {
+            "label": "C",
+            "text": "Declarar bienes como bienes de capital, no tiene consecuencias fiscales."
+          },
+          {
+            "label": "D",
+            "text": "Todas son correctas. Industria metalmecánica"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 14,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Los bienes de capital son adquiridos por empresas para producir a su vez bienes y servicios."
+          },
+          {
+            "label": "B",
+            "text": "En metalmecánica las operaciones de procesamiento incluyen procesos de formado, entre los cuales podemos citar: soldadura, roblonado, remachado, fundición, moldeado, etc."
+          },
+          {
+            "label": "C",
+            "text": "En la cadena de valor de la fabricación de maquinarias agrícolas, la segunda transformación es llevada adelante por grandes empresas multinacionales."
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas. Industria metalmecánica"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 15,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Los bienes de capital son adquiridos por empresas para producir a su vez bienes y servicios."
+          },
+          {
+            "label": "B",
+            "text": "Un prototipo es un modelo a escala de un bien que permite hacer ensayos y pruebas de funcionamiento."
+          },
+          {
+            "label": "C",
+            "text": "En la cadena de valor de la industria de máquinas agrícolas en Argentina, la participación PYME es mínima."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas son incorrectas. Los procesos de formado en la industria metalmecánica incluyen:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 16,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fundición, moldeado, plegado, arranque de viruta, etc."
+          },
+          {
+            "label": "B",
+            "text": "Moldeado, remachado, soldado, corte, etc."
+          },
+          {
+            "label": "C",
+            "text": "Fundición, temple y revenido, roblonado, etc."
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones son correctas Industria petroquímica y plástica"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 17,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Todas las afirmaciones anteriores son correctas."
+          },
+          {
+            "label": "B",
+            "text": "Conjuntos, subconjuntos, partes y piezas simples, son fabricadas por el sector metalmecánico nacional."
+          },
+          {
+            "label": "C",
+            "text": "El servicio de venta y pos venta es prestado por lo general por los fabricantes."
+          },
+          {
+            "label": "D",
+            "text": "La fabricación de agropartes y de maquinarias terminadas forman parte de la segunda transformación. Petroquímica y plásticos Explique de manera sintética a qué nos referimos cuando hablamos de COPOLÍMEROS RANDOM y cuáles son sus principales usos. Explique de manera sintética a qué nos referimos cuando hablamos de COPOLÍMEROS DE IMPACTO y cuáles son los principales usos ¿Cuáles son las propiedades físicas del polipropileno? Industria petroquímica y plástica"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 18,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El homopolímero de polipropileno puede tener diferentes estructuras cristalinas, en particular la forma atáctica implica una distribución aleatoria de monómeros etileno y propileno a lo largo de la cadena."
+          },
+          {
+            "label": "B",
+            "text": "En la columna desatanizadora se obtiene un fondo de propano y en cabeza una corriente de propileno con componentes residuales."
+          },
+          {
+            "label": "C",
+            "text": "Los gases metano, etano, propano y butano son insumos de la cadena de valor petroquímica, mientras que el estireno y el PET son productos finales obtenidos a partir de la refinación de crudo de petróleo."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta. Industria petroquímica y plástica"
+          },
+          {
+            "label": "E",
+            "text": "En el proceso Novolen típicamente se utilizan dos reactores, en ambos puede ingresarse propileno, etileno e hidrógeno."
+          },
+          {
+            "label": "F",
+            "text": "Para fabricar bolsas plásticas de residuos, suele utilizarse el proceso de conformación por extrusión de película soplada."
+          },
+          {
+            "label": "G",
+            "text": "En el termoformado de plásticos, puede aplicarse presión, vacío, o ambos, a fin de conformar el producto deseado."
+          },
+          {
+            "label": "H",
+            "text": "Todas las respuestas anteriores son correctas. Industria petroquímica ¿Cuál es una característica fundamental de la polimerización por adición?"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 19,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Genera subproductos como agua durante la formación del polímero."
+          },
+          {
+            "label": "B",
+            "text": "Conserva todos los átomos del monómero en el polímero final."
+          },
+          {
+            "label": "C",
+            "text": "Requiere siempre la presencia de un co-catalizador."
+          },
+          {
+            "label": "D",
+            "text": "Solo ocurre a bajas temperaturas. Luego de su primer uso, ¿cuál es el principal destino de los plásticos en la Argentina?"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 20,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Reciclado mecánico"
+          },
+          {
+            "label": "B",
+            "text": "Reciclado químico"
+          },
+          {
+            "label": "C",
+            "text": "Ninguna respuesta es correcta"
+          },
+          {
+            "label": "D",
+            "text": "Relleno sanitario El ingreso de hidrogeno al reactor de un proceso Novolen para la producción de PP sirve para:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 21,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Como comonómero para la producción de copolímeros."
+          },
+          {
+            "label": "B",
+            "text": "Acelerar la reacción."
+          },
+          {
+            "label": "C",
+            "text": "Activar el catalizador."
+          },
+          {
+            "label": "D",
+            "text": "Modificar la estructura básica."
+          },
+          {
+            "label": "E",
+            "text": "Ninguna respuesta es correcta. En la tecnología Novolen, para la producción de polipropileno de grado copolímero de impacto se necesita (seleccione una):"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 22,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "1 reactor con agitador mecánico"
+          },
+          {
+            "label": "B",
+            "text": "Alimentación de propileno, etileno y buteno"
+          },
+          {
+            "label": "C",
+            "text": "Ninguna respuesta es correcta."
+          },
+          {
+            "label": "D",
+            "text": "2 reactores en paralelo Cemento ¿Cuáles son las materias primas e insumos críticos en la industria del cemento? Analice la capacidad instalada en la industria del cemento y su evolución en los últimos años. Industria del cemento"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 23,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Todas las opciones son correctas."
+          },
+          {
+            "label": "B",
+            "text": "La clinkerizacion se logra a partir de los 1000°C, y comienza a producirse en parte antes de llegar al horno."
+          },
+          {
+            "label": "C",
+            "text": "El aporte del comercio exterior al mercado nacional no es significativo, se exporta principalmente a Chile y Brasil."
+          },
+          {
+            "label": "D",
+            "text": "El aporte de puzolana, que puede ser natural o artificial, apunta a mejorar la resistencia en edades prolongadas. Industria cementicia"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 24,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "La capacidad instalada en Argentina ha tenido un fuerte incremento en la última década."
+          },
+          {
+            "label": "B",
+            "text": "El yeso es un aditivo muy importante en la producción de cementos en general, que provoca el retardo en el fraguado del producto."
+          },
+          {
+            "label": "C",
+            "text": "En la trituración primaria se reduce el tamaño de las rocas de caliza a partículas del orden de 1mm, que luego pasan a molienda."
+          },
+          {
+            "label": "D",
+            "text": "En el cemento siderúrgico se elimina el yeso y se adicionan minerales de alúmina, éste resiste muy bien los ácidos y las altas temperaturas. Industria cementicia"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 25,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El crudo, previo a su transformación en clinker, se precalienta en hornos eléctricos hasta alcanzar una temperatura cercana a los 850°C."
+          },
+          {
+            "label": "B",
+            "text": "El horno rotativo es el equipo en el cual se lleva a cabo la clinkerización, posee alrededor de 80 m de longitud, y una leve inclinación."
+          },
+          {
+            "label": "C",
+            "text": "El intercambio comercial con otros países es muy significativo para la industria nacional, el principal destino de exportación es Chile."
+          },
+          {
+            "label": "D",
+            "text": "El coprocesamiento reduce el impacto ambiental, al utilizar los gases exhaustos del horno para la generación de energía eléctrica en la planta. ¿Qué características del horno rotativo son fundamentales para garantizar un proceso eficiente de clinkerización del cemento?"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 26,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Longitud del horno y revestimiento refractario."
+          },
+          {
+            "label": "B",
+            "text": "Velocidad de rotación y control de la temperatura interna."
+          },
+          {
+            "label": "C",
+            "text": "Pendiente del horno y homogeneidad del material ingresado."
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas. Durante la molienda del crudo, se observa una baja eficiencia en la separación de partículas en el ciclón. ¿Qué impacto tendría esto en el proceso y cómo podría solucionarse?"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 27,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Reduciría la uniformidad del crudo. Se debería ajustar el tamaño de las partículas en el molino."
+          },
+          {
+            "label": "B",
+            "text": "Incrementaría el consumo energético en el horno. Se debería aumentar el tiempo de molienda."
+          },
+          {
+            "label": "C",
+            "text": "Empeoraría la calidad del clinker. Se debería incrementar la velocidad del ciclón."
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas. ¿Cuál de las siguientes afirmaciones describe correctamente una etapa del proceso productivo del cemento?"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 28,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "En la etapa de molienda de crudo se incorporan correctivos para ajustar la composición química antes de la calcinación, mejorando asi las propiedades de fraguado del cemento."
+          },
+          {
+            "label": "B",
+            "text": "El clinker se obtiene a partir del enfriamiento del cemento molido, que Es sometido a temperaturas cercanas a los 1450 °C en un horno rotativo y luego enfriado a 100 °C."
+          },
+          {
+            "label": "C",
+            "text": "En la molienda final, se reduce el tamaño a un polvo fino y se añaden aditivos, obteniendo así el producto comercial."
+          },
+          {
+            "label": "D",
+            "text": "Todas las anteriores son correctas. Automotriz ¿? Haga el diagrama de la cadena técnica de valor de valor del complejo automotriz ¿qué diferencias observa con la fabricación de maquinaria agrícola? ¿? Haga el gráfico de la cadena técnica de valor de la maquinaria agrícola ¿qué diferencias observa con la industria automotriz? Industria automotriz"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 29,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Las llamadas terminales automotrices están fundamentalmente dedicadas a la producción de autopartes de marcas diversas."
+          },
+          {
+            "label": "B",
+            "text": "Argentina produce alrededor de un millín y medio de vehículos al año, esto representa alrededor del 10% de la industria nacional."
+          },
+          {
+            "label": "C",
+            "text": "El complejo automotriz es el segundo mayor exportador del país."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta. Industria automotriz"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 30,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El aluminio representa cerca del 60% de los materiales utilizados en la fabricación de vehículos."
+          },
+          {
+            "label": "B",
+            "text": "La plantas de producción del primer anillo se dedican a la manufactura de partes y piezas estandarizadas."
+          },
+          {
+            "label": "C",
+            "text": "En la provincia de Mendoza se ubican terminales de dos de las marcas automotrices con fabricación nacional."
+          },
+          {
+            "label": "D",
+            "text": "La participación de EE UU en el mercado automotriz internacional, ha decaído considerablemente desde 1950. Industria automotriz argentina"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 31,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Los precios de automóviles son altos comparados con otros países de la región, principalmente por los costos de la mano de obra local."
+          },
+          {
+            "label": "B",
+            "text": "Aporta significativamente al PBI por el volumen vendido, pero es capital intensiva y genera poco empleo directo (menos de 5.000 puestos)."
+          },
+          {
+            "label": "C",
+            "text": "El sector es muy relevante para las exportaciones argentinas, pero vulnerable por la alta incidencia de autopartes importadas."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las opciones anteriores es correcta. Celulosa y papel Explique el proceso productivo de la celulosa (desde la caña de azúcar hasta la obtención de la pasta de celulosa) Explique el proceso productivo del papel (desde la pasta de celulosa hasta la obtención del papel). Industria celulósica papelera"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 32,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El espinal y las yungas conforman la mayor parte de los bosques nativos argentinos."
+          },
+          {
+            "label": "B",
+            "text": "La celulosa obtenida por vía química es la más común, dado que posee mayor rendimiento."
+          },
+          {
+            "label": "C",
+            "text": "En la producción nacional de pulpa, prácticamente toda la materia prima proviene de fibras de madera."
+          },
+          {
+            "label": "D",
+            "text": "Normalmente, las industrias argentinas del sector integran las dos grandes etapas de la cadena (celulosa, papel y cartón). Industria de la celulosa y el papel:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 33,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Para la obtención de celulosa a partir de maderas, el método químico posee alto rendimiento másico, comparado con el método mecánico."
+          },
+          {
+            "label": "B",
+            "text": "En el proceso de reciclaje de papel, se usan tensioactivos y soda caustica para eliminar por flotación sustancias indeseadas."
+          },
+          {
+            "label": "C",
+            "text": "El calandrado es la etapa económicamente más costosa del proceso productivo, en la etapa de formación de papel."
+          },
+          {
+            "label": "D",
+            "text": "Las plantas de celulosa nacionales se ubican principalmente en la región centro de Argentina. Industria de la celulosa y el papel"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 34,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "La producción mundial de papel para artes gráficas ha aumentado considerablemente en la última década."
+          },
+          {
+            "label": "B",
+            "text": "En la última década, la producción mundial de papel y cartón para usos no gráficos ha seguido una tendencia claramente descendiente."
+          },
+          {
+            "label": "C",
+            "text": "La búsqueda de alternativas rentables y menos contaminantes para la etapa de blanqueo, es uno de los principales desafíos ambientales."
+          },
+          {
+            "label": "D",
+            "text": "En el proceso de formación de papel, la etapa de prensado húmedo es responsable de extraer un 85% del agua de la hoja. Industria del papel y la celulosa"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 35,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Aproximadamente la mitad de la materia prima utilizada en la producción argentina de papel es de origen nacional."
+          },
+          {
+            "label": "B",
+            "text": "Producir celulosa con bagazo de caña de azúcar implica reutilizar un residuo, pero consume mayor energía y agua que la madera."
+          },
+          {
+            "label": "C",
+            "text": "El bagazo de caña de azúcar tiene un contenido de celulosa, hemicelulosa y lignina, similar al de la madera de los árboles."
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas. En la industria del papel (selecciona una o más de una):"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 36,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El licor negro no es un insumo del proceso."
+          },
+          {
+            "label": "B",
+            "text": "Los métodos químicos producen fibras largas de gran resistencia mecánica."
+          },
+          {
+            "label": "C",
+            "text": "El licor negro es un insumo del proceso."
+          },
+          {
+            "label": "D",
+            "text": "El método termo mecánico produce fibras largas de celulosa que dan lugar a un papel de gran resistencia mecánica. Una de las fuentes para la obtención de pasta celulósica es el reciclaje de papel y cartón:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 37,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "A medida que la materia acumula más ciclos de reciclaje, se hace necesario el agregado de aditivos, fundamentalmente adhesivos. → F, nunca se le agregan adhesivos o aditivos."
+          },
+          {
+            "label": "B",
+            "text": "Se emplean comúnmente compuestos de cloro en dos etapas del proceso, para desintegrar las fibras (en el pulper) y para el blanqueo. → F, no se usa cloro en el pulper se usa solo agua y tensioactivos con soda cáustica."
+          },
+          {
+            "label": "C",
+            "text": "Es preciso eliminar tintas (destintado) de la materia prima, para ello se añaden a la pulpa compuestos que solubilizan estas sustancias en la corriente de lavado, que se descarta del proceso. → F, los tensioactivos sí solubilizan pero no es una corriente de lavado es por flotación con burbujas de aire. 4. Todas las respuestas anteriores son incorrectas. Aluminio Desarrolle completa y detalladamente el proceso Bayer en la industria del aluminio. Resuma en un gráfico las etapas, productos obtenidos y actores de la cadena de valor del aluminio. Aluminio"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 38,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Existe un gran y único productor de alúmina local (monopolio)."
+          },
+          {
+            "label": "B",
+            "text": "La principal planta de producción está ubicada en Puerto Madryn."
+          },
+          {
+            "label": "C",
+            "text": "La balanza comercial de productos semielaborados ha sido positiva durante la última década."
+          },
+          {
+            "label": "D",
+            "text": "Todas las anteriores son correctas. Aluminio - Proceso de obtención"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 39,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "En el proceso de obtención de aluminio: La soda cáustica acelera la precipitación del hidróxido de aluminio."
+          },
+          {
+            "label": "B",
+            "text": "Se consumen alrededor de 20 kWh para el proceso Hall-Hérault."
+          },
+          {
+            "label": "C",
+            "text": "Se utilizan electrodos de aleaciones especiales para la electrólisis de la alúmina en un baño de criolita."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna respuesta es correcta. Industria del aluminio"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 40,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "En la materia prima del proceso Bayer, la sílice es una impureza determinante, que afecta, por ejemplo, al tiempo de digestión."
+          },
+          {
+            "label": "B",
+            "text": "La presión y temperatura del proceso de digestión dependen fundamentalmente del contenido de hierro de la bauxita."
+          },
+          {
+            "label": "C",
+            "text": "En el proceso Hall-Hérault, el carbono del cátodo se consume al combinarse con el oxígeno disociado y formar dióxido de carbono."
+          },
+          {
+            "label": "D",
+            "text": "Se requieren aproximadamente 2 toneladas de criolita para procesar 100 kg de alúmina y obtener 80 kg de aluminio puro. La criolita es un insumo fundamental en la producción de aluminio"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 41,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Es un mineral que contiene calcio, aluminio y flúor, se encuentra en forma natural en muy pocas regiones del mundo, por lo cual su industrialización a nivel mundial es de tipo monopólica."
+          },
+          {
+            "label": "B",
+            "text": "Actúa como fundente, porque permite reducir casi un 20% la temperatura de fundición del aluminio puro."
+          },
+          {
+            "label": "C",
+            "text": "Se utiliza en el proceso Hall-Hérault, donde se mantiene un delicado equilibrio entre el baño fundido y la costra sólida superficial."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas. En la Industria del Aluminio, a qué se refiere la siguiente fórmula química: Na3AlF6:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 42,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ninguna respuesta es correcta."
+          },
+          {
+            "label": "B",
+            "text": "Hidróxido de Aluminio."
+          },
+          {
+            "label": "C",
+            "text": "Aluminato de Sodio"
+          },
+          {
+            "label": "D",
+            "text": "Alúmina. Para obtener 1Tn de aluminio necesito:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 43,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ninguna respuesta es correcta."
+          },
+          {
+            "label": "B",
+            "text": "4Tn de bauxita, 1 Tn de criolita, 600kg de electrodos, 17.000-19.500 KWh (energía eléctrica)."
+          },
+          {
+            "label": "C",
+            "text": "4Tn de bauxita, 500Kg de criolita, 1 Tn de electrodos, 17.000-19.500 KWh (energía eléctrica)."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas son correctas."
+          },
+          {
+            "label": "E",
+            "text": "2 Tn de alúmina, 100kg de criolita, 600 kg de electrodos, 17.000-19.500KWh (energía eléctrica). ¿De qué depende fundamentalmente el rango de parámetros elegido en la etapa de digestión del proceso Bayer?:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 44,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Del proceso previo de eliminación de sílice soluble y del reaprovechamiento del calor liberado en etapas posteriores."
+          },
+          {
+            "label": "B",
+            "text": "Del tipo de bauxita y de la cantidad de sílice soluble."
+          },
+          {
+            "label": "C",
+            "text": "De la cantidad de impurezas de la mena y del tipo de alúmina a obtener."
+          },
+          {
+            "label": "D",
+            "text": "2 y 3 son correctas. Construcción ¿Cuál es y cómo se construye el principal indicador de actividad del sector construcción en el país, elaborado por el INDEC? Comente los principales factores de la industria de la construcción intervinientes en el mercado de servicios infraestructura Industria de la construcción nacional"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 45,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El sector de la construcción posee bajo impacto económico, dado que representa tan solo 5% (aproximadamente) del PBI nacional."
+          },
+          {
+            "label": "B",
+            "text": "La construcción se encuentra en un bajo nivel de actividad, debido a factores tales como la reducción de la obra pública, la incertidumbre económica y la recesión de muchos sectores industriales."
+          },
+          {
+            "label": "C",
+            "text": "El ISAC es un indicador sectorial elaborado por el INDEC, a partir de cifras como el número de empleados y de permisos de construcción."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas Industria de la construcción"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 46,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mediante métodos de construcción conocidos como “tradicionales” pueden ejecutarse obras de gran durabilidad y resistencia estructural."
+          },
+          {
+            "label": "B",
+            "text": "Los métodos de construcción modernos como la construcción en seco resultan siempre más económicos por el menor desperdicio de productos y por emplear materiales más livianos."
+          },
+          {
+            "label": "C",
+            "text": "Para los estudios de factibilidad de un proyecto de construcción, es necesaria la aprobación previa de la planimetría conforme a obra."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta. Industria de la construcción"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 47,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El ICC es un indicador del INDEC, que no es directamente representativo del nivel de actividad de la construcción nacional."
+          },
+          {
+            "label": "B",
+            "text": "Las UVA's y las UVI's actualizan periódicamente su valor, según el mismo indice de referencia."
+          },
+          {
+            "label": "C",
+            "text": "Las Unidades de Valor Adquisitivo sirven como un instrumento financiera solamente aplicable en contratos de construcción."
+          },
+          {
+            "label": "D",
+            "text": "Las encuestas cualitativas del INDEC sirven para determinar el aumento porcentual de la actividad sectorial cada trimestre. Gráfica Comente el estado actual de la industria gráfica en argentina Explique las materias primas e insumos utilizados en la industria gráfica Industria gráfica"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 48,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El método de offset tiene alta velocidad de producción, se basa en emplear rodillos impregnados y tintas hidrófilas."
+          },
+          {
+            "label": "B",
+            "text": "La serigrafía es un proceso muy versátil, que da lugar a impresiones duraderas y de alta calidad."
+          },
+          {
+            "label": "C",
+            "text": "La circulación de diarios muestra un comportamiento consistentemente decreciente desde hace más de cinco años."
+          },
+          {
+            "label": "D",
+            "text": "En la flexografía, la impresión es directa mediante planchas flexibles foto poliméricas con huecos rellenos de tinta. Industria gráfica"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 49,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "La tipografía y el huecograbado son ambos sistemas de impresión directos, el primero poco eficiente y el segundo de alta resolución."
+          },
+          {
+            "label": "B",
+            "text": "La impresión en offset es de soporte versátil, usa una prensa con rodillos que aplican una emulsión fotosensible sobre el sustrato."
+          },
+          {
+            "label": "C",
+            "text": "Cerca del 38% de toda la industria gráfica nacional se concentra solamente en CABA y PBA."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas. El proceso de impresión offset, ¿por qué se considera un método de impresión indirecto?"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 50,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Porque la tinta se transfiere primero a un rodillo de caucho antes de llegar al papel."
+          },
+          {
+            "label": "B",
+            "text": "Porque utiliza placas que imprimen en el sustrato."
+          },
+          {
+            "label": "C",
+            "text": "Porque no utiliza tinta en los procesos de impresión."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las opciones anteriores es correcta. En la industria gráfica:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 51,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El huecograbado es un sistema de impresión directo especialmente indicado para tiradas largas sobre soportes rígidos."
+          },
+          {
+            "label": "B",
+            "text": "Se emplean emulsiones fotosensibles para realizar impresiones por la técnica conocida como serigrafía."
+          },
+          {
+            "label": "C",
+            "text": "La flexografía es un método de impresión indirecto rotativo destacado por su gran versatilidad, adecuado para productos como envases y revistas."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las anteriores es correcta. Textil Comente la situación de la industria textil en Mendoza. Industria textil"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 52,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El cáñamo y la marihuana se obtienen de especies de plantas similares, ambas tienen aplicaciones medicinales."
+          },
+          {
+            "label": "B",
+            "text": "Con el urdido de la lana de algodón, se logra fundamentalmente separar mechas largas de las cortas o rotas."
+          },
+          {
+            "label": "C",
+            "text": "Es la segunda industria más contaminante del mundo con altas emisiones ocasionadas principalmente por su logística."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas son incorrectas. Industria textil"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 53,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Las provincias patagónicas lideran la producción nacional de algodón, mientras que Chaco es el mayor productor de lana del país."
+          },
+          {
+            "label": "B",
+            "text": "El sector textil tiene perspectivas de mejorar sustancialmente su aporte a la entrada de divisas, gracias a la implementación del RIGI."
+          },
+          {
+            "label": "C",
+            "text": "Los costos del proceso industrial representan un porcentaje minoritario en la formación de precio de la ropa de fabricación nacional."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta. Industria textil"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 54,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "La producción de hilos (hilandería) nacional, se ubica principalmente en las provincias del sur de Argentina."
+          },
+          {
+            "label": "B",
+            "text": "El peinado es un proceso opcional en la producción de hilos de algodón, en cual se remueven fibras cortas, esto suma resistencia a las prendas."
+          },
+          {
+            "label": "C",
+            "text": "El lino y el acetato son dos ejemplos de fibras sintéticas para la producción de manufacturas textiles."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta. Industria textil"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 55,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Las fibras para producir tejidos pueden ser sintéticas, por ejemplo, de polietileno obtenidas mediante trefilado a temperatura cercana a 50°C."
+          },
+          {
+            "label": "B",
+            "text": "La variación de precios del sector nacional en los últimos 5 años, ha tenido una dinámica similar a la del Índice de Precios al Consumidor."
+          },
+          {
+            "label": "C",
+            "text": "El sanforizado y el compactado son procesos que buscan, para diferentes tejidos, reducir el encogimiento de prendas tras el lavado."
+          },
+          {
+            "label": "D",
+            "text": "El mercerizado de la lana, cambia la apariencia física de la materia prima, elimina impurezas y mejora la capacidad de absorber tintas. Industria Textil. La operación de cardado."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 56,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Consigue que las fibras puedan moverse y trabajar en conjunto mejorando la resistencia del producto"
+          },
+          {
+            "label": "B",
+            "text": "Ninguna respuesta es correcta."
+          },
+          {
+            "label": "C",
+            "text": "Busca estirar, paralelizar las fibras lo más posible y el mezclado de las mismas las cuales corresponden a una partida distinta."
+          },
+          {
+            "label": "D",
+            "text": "Debe realizarse después del secado y antes del blanqueado. Aceite y lubricantes Software y TICs Software, TICs y SBC"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 57,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El modelo en cascada para el desarrollo de software se utiliza cuando existen documentos claros y no hay requisitos ambiguos."
+          },
+          {
+            "label": "B",
+            "text": "La metodología Kanban divide tareas en porciones mínimas organizadas de forma muy visual en un tablero de trabajo, según su avance."
+          },
+          {
+            "label": "C",
+            "text": "Un centro de datos tiene un consumo hídrico promedio equivalente a 1000 hogares típicos."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas. Software, TIC's y SBC"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 58,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El scrum es una metodología de desarrollo de software tipo en cascada, el scrum master es quien realiza el enlace con el cliente."
+          },
+          {
+            "label": "B",
+            "text": "La Ley de Promoción de la Industria del Software plantea beneficios principalmente fiscales e impositivos para incentivar al sector."
+          },
+          {
+            "label": "C",
+            "text": "Las exportaciones argentinas de software en la pasada década han crecido a una tasa ampliamente superior al promedio mundial."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta. Software, TIC's y SBC"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 59,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El Sprint es un concepto vinculado a metodologías ágiles, un evento de duración definida durante el cual se definen nuevos objetivos sprint sin alterar el alcance del proyecto definido originalmente."
+          },
+          {
+            "label": "B",
+            "text": "El sector nacional ha crecido en la última década, si bien registra en los últimos tres años una variación interanual negativa del empleo."
+          },
+          {
+            "label": "C",
+            "text": "Las producciones audiovisuales, el diseño gráfico y la asistencia técnica son ejemplos de SBC."
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas. Telecomunicaciones Mencione los principales productos/servicios que brinda la industria de las telecomunicaciones Industria de las telecomunicaciones"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 60,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Los satélites pueden trabajar en órbitas de muy diferente longitud, la más cercana (LEO) llega hasta 2000 km aproximadamente."
+          },
+          {
+            "label": "B",
+            "text": "Las redes de fibra óptica de muy larga longitud incorporan cada cierta distancia nodos de repotenciación, integrados sobre la misma línea."
+          },
+          {
+            "label": "C",
+            "text": "Una gran desventaja de las telecomunicaciones por redes móviles es que la señal no puede viajar grandes distancias de una antena a otra."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas. Según el ENACOM, ¿cuáles son los medios de telecomunicaciones más utilizados en el país, en orden de importancia?"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 61,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "1° Radioenlace, 2° Cables (cobre), 3°Satelital"
+          },
+          {
+            "label": "B",
+            "text": "1° Radioenlace, 2° Fibra Óptica, 3°Satelital"
+          },
+          {
+            "label": "C",
+            "text": "1° Cables (cobre), 2° Satelital, 3° Radioenlace"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las opciones anteriores es correcta. Fluvial y marítima Industria fluvial y marítima de Argentina"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 62,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Un 30% de las cuencas hidrográficas del país son exorreicas (el río desemboca en cuerpos de agua internos sin llegar al océano)."
+          },
+          {
+            "label": "B",
+            "text": "La vía troncal navegable conecta 5 países y abarca del lado argentino más de 1400 km, por ella circula 80% de las exportaciones nacionales."
+          },
+          {
+            "label": "C",
+            "text": "Por el puerto de Bahía Blanca, se comercializan en primer lugar productos del polo petroquímico de esa región."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas. ¿Cuáles son los principales productos transportados por la Hidrovía Paraguay-Paraná?"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 63,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Combustibles líquidos y gaseosos."
+          },
+          {
+            "label": "B",
+            "text": "Minerales de hierro y acero."
+          },
+          {
+            "label": "C",
+            "text": "Soja y sus derivados."
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas. ¿ Cuál es el puerto argentino más importante en términos de transporte de productos agroindustriales?"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 64,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Puerto de Buenos Aires."
+          },
+          {
+            "label": "B",
+            "text": "Puerto de Bahía Blanca."
+          },
+          {
+            "label": "C",
+            "text": "Puerto de Gran Rosario."
+          },
+          {
+            "label": "D",
+            "text": "Puerto de Zárate. ¿Cuál de las siguientes afirmaciones refleja con mayor precisión la Importancia del sistema portuario y fluvial argentino en la economía nacional?"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 65,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "La infraestructura fluvial y marítima nacional representa un cuello de botella para la economía argentina, ya que está orientada casi exclusivamente al abastecimiento del mercado interno."
+          },
+          {
+            "label": "B",
+            "text": "El sistema fluvial y portuario argentino es una via relevante para el comercio exterior, aunque con impacto marginal en la generación de divisas debido al bajo valor agregado de los productos transportados."
+          },
+          {
+            "label": "C",
+            "text": "La Hidrovia Paraguay-Paraná es utilizada mayormente para transporte regional de combustibles y tiene un impacto marginal en la competitividad exportadora argentina. 4. Ninguna de las anteriores es correcta. Farmacéutica Industria farmacéutica"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 66,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "La industria lidera la inversión en I+D sobre ventas, enfocándose principalmente en nuevos principios activos."
+          },
+          {
+            "label": "B",
+            "text": "Alrededor de un 80% de la industria se localiza en CABA, debido principalmente a la cercanía con núcleos de consumo."
+          },
+          {
+            "label": "C",
+            "text": "La balanza comercial resulta en déficit, generado principalmente por laboratorios de origen extranjero."
+          },
+          {
+            "label": "D",
+            "text": "A y C son correctas. Industria farmacéutica y biotecnológica:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 67,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "En la producción de aspirinas, se emplea fenol y soda cáustica para la obtención del fenolato de sodio (primer producto intermedio de la cadena de reacciones químicas del proceso)."
+          },
+          {
+            "label": "B",
+            "text": "El tiempo de desarrollo promedio de una vacuna sobrepasa, típicamente, los 10 años para su aprobación, las auditorías y el monitoreo continúan vigentes durante toda la etapa de comercialización del producto."
+          },
+          {
+            "label": "C",
+            "text": "La producción de origen nacional es la que mayores ventas reporta en Argentina, éstas se concentran mayoritariamente en el mercado interno."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas. Industria farmacéutica y biotecnológica"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 68,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Es un sector caracterizado por una alta inversión en I+D y una de las de mayor valor agregado dentro de la industria nacional."
+          },
+          {
+            "label": "B",
+            "text": "La investigación básica en este sector es la destinada a la búsqueda de nuevas formulaciones o asociaciones de principios activos en uso."
+          },
+          {
+            "label": "C",
+            "text": "Para la elaboración de comprimidos normalmente se utiliza un proceso de granulación húmeda en una prensa rotativa."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta. Industria farmacéutica y biotecnológica"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 69,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Los excipientes son sustancias añadidas a los medicamentos, principalmente para potenciar y prolongar el efecto del principio activo de los medicamentos, pueden ser de origen natural o sintético."
+          },
+          {
+            "label": "B",
+            "text": "Las plantas farmoquímicas de Argentina se ubican cerca de los puertos, por la logística de transporte de los principios activos importados."
+          },
+          {
+            "label": "C",
+            "text": "La mayor parte de las plantas industriales instaladas en el país, pertenecen a empresas de capitales nacionales."
+          },
+          {
+            "label": "D",
+            "text": "Es un sector destacado por el uso intensivo en tecnología y sus altos precios, muy poco trascendente en la generación de empleo industrial. Tratamiento de efluentes Tratamiento de residuos líquidos industriales"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 70,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Un sistema extensivo de tratamiento de efluentes líquidos industriales tiene como principal ventaja una baja inversión inicial."
+          },
+          {
+            "label": "B",
+            "text": "Frecuentemente existe una primera etapa de tratamiento preliminar en el manejo de efluentes industriales, en la que se lleva a cabo una remoción de sólidos gruesos y/o arenas."
+          },
+          {
+            "label": "C",
+            "text": "La DBO y la DQO son dos parámetros destinados ambos a la determinación de microorganismos, con distintas técnicas analíticas."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas. Tratamiento de agua industrial"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 71,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El agua obtenida de perforaciones subterráneas (agua de pozo) es generalmente de mayor calidad que la proveniente de fuentes superficiales, por su menor contenido de sedimentos."
+          },
+          {
+            "label": "B",
+            "text": "La desinfección de agua con usos industriales y/o consuntivos puede realizarse con cloro, UV u ozono, alternativas de similar eficiencia que difieren únicamente en el costo de los equipos e insumos."
+          },
+          {
+            "label": "C",
+            "text": "Una opción popular para el tratamiento de agua de calderas es el filtrado y la coagulación-floculación para eliminar durezas."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta. Tratamiento de efluentes industriales"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 72,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Un tratamiento extensivo o natural es en general la alternativa más viable cuando se manejan grandes caudales."
+          },
+          {
+            "label": "B",
+            "text": "La ecualización es un proceso muy frecuente, necesario para amortiguar las variaciones de composición del efluente."
+          },
+          {
+            "label": "C",
+            "text": "Los parámetros exigibles para el vuelco de efluentes a nivel local, dependen fundamentalmente de la naturaleza de cada industria."
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas. Los parámetros DBO y DQO en efluentes industriales (Seleccione una o más de una):"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 73,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Presentan cierta variabilidad por las diferencias analíticas, pero deberían arrojar un valor similar."
+          },
+          {
+            "label": "B",
+            "text": "Miden el mismo contaminante mediante diferentes métodos analíticos."
+          },
+          {
+            "label": "C",
+            "text": "Pueden ser muy distintos en valor e interesa conocer ambos para caracterizar."
+          },
+          {
+            "label": "D",
+            "text": "La elección entre determinar una u otra dependerá de los recursos del laboratorio. Gestión de residuos sólidos Los Residuos Patogénicos:"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 74,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Son materiales con riesgo de ocasionar infecciones o contagios."
+          },
+          {
+            "label": "B",
+            "text": "Su generación es muy frecuente en múltiples industrias locales."
+          },
+          {
+            "label": "C",
+            "text": "Requieren una gestión separada de otros residuos urbanos o industriales, se recolectan en envases especiales y se entierran."
+          },
+          {
+            "label": "D",
+            "text": "Todas las anteriores son correctas. Generación de residuos industriales sólidos"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 75,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "En ciertos casos pueden ser asimilables a residuos sólidos urbanos, y disponerse como tales en un relleno sanitario típico."
+          },
+          {
+            "label": "B",
+            "text": "Deben someterse a un proceso de tratamiento en sucesivas etapas: de lavado, desinfección e incineración con filtro de gases."
+          },
+          {
+            "label": "C",
+            "text": "Un autoclave, es un equipo usado en el reciclaje de residuos patogénicos, que usa vapor a presión aproximadamente a 500°C."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las opciones anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      }
+    ]
+  }
+]

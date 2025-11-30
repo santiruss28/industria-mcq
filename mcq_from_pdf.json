@@ -1,0 +1,1832 @@
+[
+  {
+    "pdf_name": "Preguntas P2.pdf",
+    "chunk_id": 0,
+    "questions": [
+      {
+        "number": 1,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mientras más elevada sea la acidez y el contenido de azúcar del mosto, el sulfitado requerirá"
+          },
+          {
+            "label": "B",
+            "text": "Como materia prima, el cremor tártaro suele tener mayor riqueza tartárica y humedad que el"
+          },
+          {
+            "label": "C",
+            "text": "El desulfitado del mosto se realiza en torres de intercambio donde se aporta vapor a presión"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna respuesta es correcta"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 2,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "La obtención de tartrato de calcio es la etapa previa para la producción de ácido tartárico, si"
+          },
+          {
+            "label": "B",
+            "text": "La industria nacional de los derivados vínicos puede considerarse un sector marcadamente"
+          },
+          {
+            "label": "C",
+            "text": "La ley de borras es una norma que se estableció con el fin de incentivar al sector, el acuerdo"
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 3,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El ácido metatartárico es un derivado de la industria vínica que se emplea para estabilizar al"
+          },
+          {
+            "label": "B",
+            "text": "Las borras sólidas son una de las materias primas más empleadas en la industria,"
+          },
+          {
+            "label": "C",
+            "text": "El crémor tártaro es un producto intermedio en el proceso de obtención del ácido tartárico,"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 4,
+        "question": "Mosto y derivados vínicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Para la producción de ácido tartárico elemental no pueden utilizarse materias primas"
+          },
+          {
+            "label": "B",
+            "text": "El ácido tartárico se utiliza principalmente como agente estabilizante para evitar la"
+          },
+          {
+            "label": "C",
+            "text": "El cremor tártaro tiene aplicaciones farmacéuticas (es antioxidante y anticristalizante) y sirve"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las opciones anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 5,
+        "question": "En la obtención de tartrato cálcico a partir del orujo:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Luego de un lavado con agua caliente, se obtiene como subproducto orujo agotado, a su vez"
+          },
+          {
+            "label": "B",
+            "text": "Se realiza una destilación a través de sucesivas columnas, de donde surgen más"
+          },
+          {
+            "label": "C",
+            "text": "Las vinazas procedentes de la destilación son sometidas a una acidificación con HCI,"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es incorrecta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 6,
+        "question": "El aglomerado y el MDF:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Son dos ejemplos de tableros de partículas."
+          },
+          {
+            "label": "B",
+            "text": "Son prácticamente iguales, solo difieren en el tamaño de las partículas que se aglomeran."
+          },
+          {
+            "label": "C",
+            "text": "Son menos adecuados que el OSB para aplicaciones estructurales."
+          },
+          {
+            "label": "D",
+            "text": "Todas las anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 7,
+        "question": "El aglomerado y el MDF:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Su fabricación implica operarios calificados y equipos complejos."
+          },
+          {
+            "label": "B",
+            "text": "Por su elevada resistencia, mejora el costo de una pieza maciza de similar tamaño, en"
+          },
+          {
+            "label": "C",
+            "text": "Posee menor estabilidad dimensional que la madera maciza."
+          },
+          {
+            "label": "D",
+            "text": "En Argentina comúnmente se fabrica con madera de cedro o álamo."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 8,
+        "question": "En el proceso de impregnación de maderas con preservantes:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Se hace una sola vez el proceso de vacío."
+          },
+          {
+            "label": "B",
+            "text": "Se hace vacío en dos oportunidades."
+          },
+          {
+            "label": "C",
+            "text": "Se hace solo presión para inyectar el preservante."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las opciones anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 9,
+        "question": "aglomerado y OSB?:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Similar principio de fabricación, pero uno de ellos tiene en cuenta la orientación de la"
+          },
+          {
+            "label": "B",
+            "text": "Tienen diferentes proceso de fabricación y ambos se usan principalmente en muebles."
+          },
+          {
+            "label": "C",
+            "text": "Ambos son tableros de partículas y su principal diferencia radica en las propiedades"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna incorrecta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 10,
+        "question": "La composición de la madera es:",
+        "options": [
+          {
+            "label": "A",
+            "text": "30%celulosa, 30%hemicelulosa, 30% lignina, 10% otros"
+          },
+          {
+            "label": "B",
+            "text": "50%celulosa, 25%hemicelulosa y 25% lignina"
+          },
+          {
+            "label": "C",
+            "text": "Ninguna opción es verdadera"
+          },
+          {
+            "label": "D",
+            "text": "50%celulosa, 40% lignina, y 10% otras sustancias (resinas, etc.)"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 11,
+        "question": "La composición de la madera es:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Comercializa fundamentalmente productos que aportan positivamente a la balanza externa."
+          },
+          {
+            "label": "B",
+            "text": "Incluye muchos establecimientos que integran también el sector secundario."
+          },
+          {
+            "label": "C",
+            "text": "Se centra mayormente en la venta de madera impregnada y rollizos."
+          },
+          {
+            "label": "D",
+            "text": "Es poco tecnificado y tiene alta rotación de personal."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 12,
+        "question": "Las maderas impregnadas:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ambas opciones son correctas"
+          },
+          {
+            "label": "B",
+            "text": "Por lo general tienen mucho duramen"
+          },
+          {
+            "label": "C",
+            "text": "Ninguna es correcta."
+          },
+          {
+            "label": "D",
+            "text": "Por lo general tienen mucha albura"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 13,
+        "question": "Industria metalmecánica:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Los bienes de capital son bienes de consumos adquiridos para capitalización y ahorro."
+          },
+          {
+            "label": "B",
+            "text": "Los bienes de capital son adquiridos por compañías para la producción"
+          },
+          {
+            "label": "C",
+            "text": "Declarar bienes como bienes de capital, no tiene consecuencias fiscales."
+          },
+          {
+            "label": "D",
+            "text": "Todas son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 14,
+        "question": "Industria metalmecánica:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Los bienes de capital son adquiridos por empresas para producir a su vez bienes y servicios."
+          },
+          {
+            "label": "B",
+            "text": "En metalmecánica las operaciones de procesamiento incluyen procesos de formado, entre"
+          },
+          {
+            "label": "C",
+            "text": "En la cadena de valor de la fabricación de maquinarias agrícolas, la segunda transformación"
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 15,
+        "question": "Industria metalmecánica:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Los bienes de capital son adquiridos por empresas para producir a su vez bienes y servicios."
+          },
+          {
+            "label": "B",
+            "text": "Un prototipo es un modelo a escala de un bien que permite hacer ensayos y pruebas de"
+          },
+          {
+            "label": "C",
+            "text": "En la cadena de valor de la industria de máquinas agrícolas en Argentina, la participación"
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas son incorrectas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 16,
+        "question": "Los procesos de formado en la industria metalmecánica incluyen:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fundición, moldeado, plegado, arranque de viruta, etc."
+          },
+          {
+            "label": "B",
+            "text": "Moldeado, remachado, soldado, corte, etc."
+          },
+          {
+            "label": "C",
+            "text": "Fundición, temple y revenido, roblonado, etc."
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones son correctas"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 17,
+        "question": "Los procesos de formado en la industria metalmecánica incluyen:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Todas las afirmaciones anteriores son correctas."
+          },
+          {
+            "label": "B",
+            "text": "Conjuntos, subconjuntos, partes y piezas simples, son fabricadas por el sector"
+          },
+          {
+            "label": "C",
+            "text": "El servicio de venta y pos venta es prestado por lo general por los fabricantes."
+          },
+          {
+            "label": "D",
+            "text": "La fabricación de agropartes y de maquinarias terminadas forman parte de la segunda"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 18,
+        "question": "Los procesos de formado en la industria metalmecánica incluyen:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El homopolímero de polipropileno puede tener diferentes estructuras cristalinas, en"
+          },
+          {
+            "label": "B",
+            "text": "En la columna desatanizadora se obtiene un fondo de propano y en cabeza una corriente de"
+          },
+          {
+            "label": "C",
+            "text": "Los gases metano, etano, propano y butano son insumos de la cadena de valor"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 19,
+        "question": "Los procesos de formado en la industria metalmecánica incluyen:",
+        "options": [
+          {
+            "label": "A",
+            "text": "En el proceso Novolen típicamente se utilizan dos reactores, en ambos puede ingresarse"
+          },
+          {
+            "label": "B",
+            "text": "Para fabricar bolsas plásticas de residuos, suele utilizarse el proceso de conformación por"
+          },
+          {
+            "label": "C",
+            "text": "En el termoformado de plásticos, puede aplicarse presión, vacío, o ambos, a fin de"
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 20,
+        "question": "Los procesos de formado en la industria metalmecánica incluyen:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Genera subproductos como agua durante la formación del polímero."
+          },
+          {
+            "label": "B",
+            "text": "Conserva todos los átomos del monómero en el polímero final."
+          },
+          {
+            "label": "C",
+            "text": "Requiere siempre la presencia de un co-catalizador."
+          },
+          {
+            "label": "D",
+            "text": "Solo ocurre a bajas temperaturas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 21,
+        "question": "Los procesos de formado en la industria metalmecánica incluyen:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Reciclado mecánico"
+          },
+          {
+            "label": "B",
+            "text": "Reciclado químico"
+          },
+          {
+            "label": "C",
+            "text": "Ninguna respuesta es correcta"
+          },
+          {
+            "label": "D",
+            "text": "Relleno sanitario"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 22,
+        "question": "para:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Como comonómero para la producción de copolímeros."
+          },
+          {
+            "label": "B",
+            "text": "Acelerar la reacción."
+          },
+          {
+            "label": "C",
+            "text": "Activar el catalizador."
+          },
+          {
+            "label": "D",
+            "text": "Modificar la estructura básica."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 23,
+        "question": "impacto se necesita (seleccione una):",
+        "options": [
+          {
+            "label": "A",
+            "text": "1 reactor con agitador mecánico"
+          },
+          {
+            "label": "B",
+            "text": "Alimentación de propileno, etileno y buteno"
+          },
+          {
+            "label": "C",
+            "text": "Ninguna respuesta es correcta."
+          },
+          {
+            "label": "D",
+            "text": "2 reactores en paralelo"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 24,
+        "question": "Cemento",
+        "options": [
+          {
+            "label": "A",
+            "text": "Todas las opciones son correctas."
+          },
+          {
+            "label": "B",
+            "text": "La clinkerizacion se logra a partir de los 1000°C, y comienza a producirse en parte antes de"
+          },
+          {
+            "label": "C",
+            "text": "El aporte del comercio exterior al mercado nacional no es significativo, se exporta"
+          },
+          {
+            "label": "D",
+            "text": "El aporte de puzolana, que puede ser natural o artificial, apunta a mejorar la resistencia en"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 25,
+        "question": "Cemento",
+        "options": [
+          {
+            "label": "A",
+            "text": "La capacidad instalada en Argentina ha tenido un fuerte incremento en la última década."
+          },
+          {
+            "label": "B",
+            "text": "El yeso es un aditivo muy importante en la producción de cementos en general, que provoca"
+          },
+          {
+            "label": "C",
+            "text": "En la trituración primaria se reduce el tamaño de las rocas de caliza a partículas del orden de"
+          },
+          {
+            "label": "D",
+            "text": "En el cemento siderúrgico se elimina el yeso y se adicionan minerales de alúmina, éste"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 26,
+        "question": "Cemento",
+        "options": [
+          {
+            "label": "A",
+            "text": "El crudo, previo a su transformación en clinker, se precalienta en hornos eléctricos hasta"
+          },
+          {
+            "label": "B",
+            "text": "El horno rotativo es el equipo en el cual se lleva a cabo la clinkerización, posee alrededor de"
+          },
+          {
+            "label": "C",
+            "text": "El intercambio comercial con otros países es muy significativo para la industria nacional, el"
+          },
+          {
+            "label": "D",
+            "text": "El coprocesamiento reduce el impacto ambiental, al utilizar los gases exhaustos del horno"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 27,
+        "question": "Cemento",
+        "options": [
+          {
+            "label": "A",
+            "text": "Longitud del horno y revestimiento refractario."
+          },
+          {
+            "label": "B",
+            "text": "Velocidad de rotación y control de la temperatura interna."
+          },
+          {
+            "label": "C",
+            "text": "Pendiente del horno y homogeneidad del material ingresado."
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 28,
+        "question": "Cemento",
+        "options": [
+          {
+            "label": "A",
+            "text": "Reduciría la uniformidad del crudo. Se debería ajustar el tamaño de las partículas en el"
+          },
+          {
+            "label": "B",
+            "text": "Incrementaría el consumo energético en el horno. Se debería aumentar el tiempo de"
+          },
+          {
+            "label": "C",
+            "text": "Empeoraría la calidad del clinker. Se debería incrementar la velocidad del ciclón."
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 29,
+        "question": "Cemento",
+        "options": [
+          {
+            "label": "A",
+            "text": "En la etapa de molienda de crudo se incorporan correctivos para ajustar la composición"
+          },
+          {
+            "label": "B",
+            "text": "El clinker se obtiene a partir del enfriamiento del cemento molido, que Es sometido a"
+          },
+          {
+            "label": "C",
+            "text": "En la molienda final, se reduce el tamaño a un polvo fino y se añaden aditivos, obteniendo"
+          },
+          {
+            "label": "D",
+            "text": "Todas las anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 30,
+        "question": "Automotriz",
+        "options": [
+          {
+            "label": "A",
+            "text": "Las llamadas terminales automotrices están fundamentalmente dedicadas a la producción"
+          },
+          {
+            "label": "B",
+            "text": "Argentina produce alrededor de un millín y medio de vehículos al año, esto representa"
+          },
+          {
+            "label": "C",
+            "text": "El complejo automotriz es el segundo mayor exportador del país."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 31,
+        "question": "Automotriz",
+        "options": [
+          {
+            "label": "A",
+            "text": "El aluminio representa cerca del 60% de los materiales utilizados en la fabricación de"
+          },
+          {
+            "label": "B",
+            "text": "La plantas de producción del primer anillo se dedican a la manufactura de partes y piezas"
+          },
+          {
+            "label": "C",
+            "text": "En la provincia de Mendoza se ubican terminales de dos de las marcas automotrices con"
+          },
+          {
+            "label": "D",
+            "text": "La participación de EE UU en el mercado automotriz internacional, ha decaído"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 32,
+        "question": "Automotriz",
+        "options": [
+          {
+            "label": "A",
+            "text": "Los precios de automóviles son altos comparados con otros países de la región,"
+          },
+          {
+            "label": "B",
+            "text": "Aporta significativamente al PBI por el volumen vendido, pero es capital intensiva y genera"
+          },
+          {
+            "label": "C",
+            "text": "El sector es muy relevante para las exportaciones argentinas, pero vulnerable por la alta"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las opciones anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 33,
+        "question": "Automotriz",
+        "options": [
+          {
+            "label": "A",
+            "text": "El espinal y las yungas conforman la mayor parte de los bosques nativos argentinos."
+          },
+          {
+            "label": "B",
+            "text": "La celulosa obtenida por vía química es la más común, dado que posee mayor rendimiento."
+          },
+          {
+            "label": "C",
+            "text": "En la producción nacional de pulpa, prácticamente toda la materia prima proviene de fibras"
+          },
+          {
+            "label": "D",
+            "text": "Normalmente, las industrias argentinas del sector integran las dos grandes etapas de la"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 34,
+        "question": "Industria de la celulosa y el papel:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Para la obtención de celulosa a partir de maderas, el método químico posee alto"
+          },
+          {
+            "label": "B",
+            "text": "En el proceso de reciclaje de papel, se usan tensioactivos y soda caustica para eliminar por"
+          },
+          {
+            "label": "C",
+            "text": "El calandrado es la etapa económicamente más costosa del proceso productivo, en la etapa"
+          },
+          {
+            "label": "D",
+            "text": "Las plantas de celulosa nacionales se ubican principalmente en la región centro de"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 35,
+        "question": "Argentina.",
+        "options": [
+          {
+            "label": "A",
+            "text": "La producción mundial de papel para artes gráficas ha aumentado considerablemente en la"
+          },
+          {
+            "label": "B",
+            "text": "En la última década, la producción mundial de papel y cartón para usos no gráficos ha"
+          },
+          {
+            "label": "C",
+            "text": "La búsqueda de alternativas rentables y menos contaminantes para la etapa de blanqueo,"
+          },
+          {
+            "label": "D",
+            "text": "En el proceso de formación de papel, la etapa de prensado húmedo es responsable de"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 36,
+        "question": "Argentina.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Aproximadamente la mitad de la materia prima utilizada en la producción argentina de papel"
+          },
+          {
+            "label": "B",
+            "text": "Producir celulosa con bagazo de caña de azúcar implica reutilizar un residuo, pero consume"
+          },
+          {
+            "label": "C",
+            "text": "El bagazo de caña de azúcar tiene un contenido de celulosa, hemicelulosa y lignina, similar"
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 37,
+        "question": "En la industria del papel (selecciona una o más de una):",
+        "options": [
+          {
+            "label": "A",
+            "text": "El licor negro no es un insumo del proceso."
+          },
+          {
+            "label": "B",
+            "text": "Los métodos químicos producen fibras largas de gran resistencia mecánica."
+          },
+          {
+            "label": "C",
+            "text": "El licor negro es un insumo del proceso."
+          },
+          {
+            "label": "D",
+            "text": "El método termo mecánico produce fibras largas de celulosa que dan lugar a un papel de"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 38,
+        "question": "Una de las fuentes para la obtención de pasta celulósica es el reciclaje de papel y cartón:",
+        "options": [
+          {
+            "label": "A",
+            "text": "A medida que la materia acumula más ciclos de reciclaje, se hace necesario el agregado de"
+          },
+          {
+            "label": "B",
+            "text": "Se emplean comúnmente compuestos de cloro en dos etapas del proceso, para desintegrar"
+          },
+          {
+            "label": "C",
+            "text": "Es preciso eliminar tintas (destintado) de la materia prima, para ello se añaden a la pulpa"
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son incorrectas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 39,
+        "question": "Aluminio",
+        "options": [
+          {
+            "label": "A",
+            "text": "Existe un gran y único productor de alúmina local (monopolio)."
+          },
+          {
+            "label": "B",
+            "text": "La principal planta de producción está ubicada en Puerto Madryn."
+          },
+          {
+            "label": "C",
+            "text": "La balanza comercial de productos semielaborados ha sido positiva durante la última"
+          },
+          {
+            "label": "D",
+            "text": "Todas las anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 40,
+        "question": "Aluminio",
+        "options": [
+          {
+            "label": "A",
+            "text": "En el proceso de obtención de aluminio: La soda cáustica acelera la precipitación del"
+          },
+          {
+            "label": "B",
+            "text": "Se consumen alrededor de 20 kWh para el proceso Hall-Hérault."
+          },
+          {
+            "label": "C",
+            "text": "Se utilizan electrodos de aleaciones especiales para la electrólisis de la alúmina en un baño"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna respuesta es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 41,
+        "question": "Aluminio",
+        "options": [
+          {
+            "label": "A",
+            "text": "En la materia prima del proceso Bayer, la sílice es una impureza determinante, que afecta,"
+          },
+          {
+            "label": "B",
+            "text": "La presión y temperatura del proceso de digestión dependen fundamentalmente del"
+          },
+          {
+            "label": "C",
+            "text": "En el proceso Hall-Hérault, el carbono del cátodo se consume al combinarse con el oxígeno"
+          },
+          {
+            "label": "D",
+            "text": "Se requieren aproximadamente 2 toneladas de criolita para procesar 100 kg de alúmina y"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 42,
+        "question": "Aluminio",
+        "options": [
+          {
+            "label": "A",
+            "text": "Es un mineral que contiene calcio, aluminio y flúor, se encuentra en forma natural en muy"
+          },
+          {
+            "label": "B",
+            "text": "Actúa como fundente, porque permite reducir casi un 20% la temperatura de fundición del"
+          },
+          {
+            "label": "C",
+            "text": "Se utiliza en el proceso Hall-Hérault, donde se mantiene un delicado equilibrio entre el baño"
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 43,
+        "question": "En la Industria del Aluminio, a qué se refiere la siguiente fórmula química: Na3AlF6:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ninguna respuesta es correcta."
+          },
+          {
+            "label": "B",
+            "text": "Hidróxido de Aluminio."
+          },
+          {
+            "label": "C",
+            "text": "Aluminato de Sodio"
+          },
+          {
+            "label": "D",
+            "text": "Alúmina."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 44,
+        "question": "Para obtener 1Tn de aluminio necesito:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ninguna respuesta es correcta."
+          },
+          {
+            "label": "B",
+            "text": "4Tn de bauxita, 1 Tn de criolita, 600kg de electrodos, 17.000-19.500 KWh (energía eléctrica)."
+          },
+          {
+            "label": "C",
+            "text": "4Tn de bauxita, 500Kg de criolita, 1 Tn de electrodos, 17.000-19.500 KWh (energía eléctrica)."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 45,
+        "question": "digestión del proceso Bayer?:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Del proceso previo de eliminación de sílice soluble y del reaprovechamiento del calor"
+          },
+          {
+            "label": "B",
+            "text": "Del tipo de bauxita y de la cantidad de sílice soluble."
+          },
+          {
+            "label": "C",
+            "text": "De la cantidad de impurezas de la mena y del tipo de alúmina a obtener."
+          },
+          {
+            "label": "D",
+            "text": "2 y 3 son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 46,
+        "question": "Construcción",
+        "options": [
+          {
+            "label": "A",
+            "text": "El sector de la construcción posee bajo impacto económico, dado que representa tan solo"
+          },
+          {
+            "label": "B",
+            "text": "La construcción se encuentra en un bajo nivel de actividad, debido a factores tales"
+          },
+          {
+            "label": "C",
+            "text": "El ISAC es un indicador sectorial elaborado por el INDEC, a partir de cifras como el número"
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 47,
+        "question": "Construcción",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mediante métodos de construcción conocidos como “tradicionales” pueden ejecutarse"
+          },
+          {
+            "label": "B",
+            "text": "Los métodos de construcción modernos como la construcción en seco resultan siempre"
+          },
+          {
+            "label": "C",
+            "text": "Para los estudios de factibilidad de un proyecto de construcción, es necesaria la aprobación"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 48,
+        "question": "Construcción",
+        "options": [
+          {
+            "label": "A",
+            "text": "El ICC es un indicador del INDEC, que no es directamente representativo del nivel de"
+          },
+          {
+            "label": "B",
+            "text": "Las UVA's y las UVI's actualizan periódicamente su valor, según el mismo indice de"
+          },
+          {
+            "label": "C",
+            "text": "Las Unidades de Valor Adquisitivo sirven como un instrumento financiera solamente"
+          },
+          {
+            "label": "D",
+            "text": "Las encuestas cualitativas del INDEC sirven para determinar el aumento porcentual de la"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 49,
+        "question": "Gráfica",
+        "options": [
+          {
+            "label": "A",
+            "text": "El método de offset tiene alta velocidad de producción, se basa en emplear rodillos"
+          },
+          {
+            "label": "B",
+            "text": "La serigrafía es un proceso muy versátil, que da lugar a impresiones duraderas y de alta"
+          },
+          {
+            "label": "C",
+            "text": "La circulación de diarios muestra un comportamiento consistentemente decreciente desde"
+          },
+          {
+            "label": "D",
+            "text": "En la flexografía, la impresión es directa mediante planchas flexibles foto poliméricas con"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 50,
+        "question": "Gráfica",
+        "options": [
+          {
+            "label": "A",
+            "text": "La tipografía y el huecograbado son ambos sistemas de impresión directos, el primero poco"
+          },
+          {
+            "label": "B",
+            "text": "La impresión en offset es de soporte versátil, usa una prensa con rodillos que aplican una"
+          },
+          {
+            "label": "C",
+            "text": "Cerca del 38% de toda la industria gráfica nacional se concentra solamente en CABA y PBA."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 51,
+        "question": "Gráfica",
+        "options": [
+          {
+            "label": "A",
+            "text": "Porque la tinta se transfiere primero a un rodillo de caucho antes de llegar al papel."
+          },
+          {
+            "label": "B",
+            "text": "Porque utiliza placas que imprimen en el sustrato."
+          },
+          {
+            "label": "C",
+            "text": "Porque no utiliza tinta en los procesos de impresión."
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las opciones anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 52,
+        "question": "En la industria gráfica:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El huecograbado es un sistema de impresión directo especialmente indicado para tiradas"
+          },
+          {
+            "label": "B",
+            "text": "Se emplean emulsiones fotosensibles para realizar impresiones por la técnica conocida"
+          },
+          {
+            "label": "C",
+            "text": "La flexografía es un método de impresión indirecto rotativo destacado por su gran"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 53,
+        "question": "Textil",
+        "options": [
+          {
+            "label": "A",
+            "text": "El cáñamo y la marihuana se obtienen de especies de plantas similares, ambas tienen"
+          },
+          {
+            "label": "B",
+            "text": "Con el urdido de la lana de algodón, se logra fundamentalmente separar mechas largas de"
+          },
+          {
+            "label": "C",
+            "text": "Es la segunda industria más contaminante del mundo con altas emisiones ocasionadas"
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas son incorrectas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 54,
+        "question": "Textil",
+        "options": [
+          {
+            "label": "A",
+            "text": "Las provincias patagónicas lideran la producción nacional de algodón, mientras que Chaco"
+          },
+          {
+            "label": "B",
+            "text": "El sector textil tiene perspectivas de mejorar sustancialmente su aporte a la entrada de"
+          },
+          {
+            "label": "C",
+            "text": "Los costos del proceso industrial representan un porcentaje minoritario en la formación de"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 55,
+        "question": "Textil",
+        "options": [
+          {
+            "label": "A",
+            "text": "La producción de hilos (hilandería) nacional, se ubica principalmente en las provincias del"
+          },
+          {
+            "label": "B",
+            "text": "El peinado es un proceso opcional en la producción de hilos de algodón, en cual se"
+          },
+          {
+            "label": "C",
+            "text": "El lino y el acetato son dos ejemplos de fibras sintéticas para la producción de manufacturas"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 56,
+        "question": "Textil",
+        "options": [
+          {
+            "label": "A",
+            "text": "Las fibras para producir tejidos pueden ser sintéticas, por ejemplo, de polietileno obtenidas"
+          },
+          {
+            "label": "B",
+            "text": "La variación de precios del sector nacional en los últimos 5 años, ha tenido una dinámica"
+          },
+          {
+            "label": "C",
+            "text": "El sanforizado y el compactado son procesos que buscan, para diferentes tejidos, reducir el"
+          },
+          {
+            "label": "D",
+            "text": "El mercerizado de la lana, cambia la apariencia física de la materia prima, elimina impurezas"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 57,
+        "question": "Textil",
+        "options": [
+          {
+            "label": "A",
+            "text": "Consigue que las fibras puedan moverse y trabajar en conjunto mejorando la resistencia del"
+          },
+          {
+            "label": "B",
+            "text": "Ninguna respuesta es correcta."
+          },
+          {
+            "label": "C",
+            "text": "Busca estirar, paralelizar las fibras lo más posible y el mezclado de las mismas las cuales"
+          },
+          {
+            "label": "D",
+            "text": "Debe realizarse después del secado y antes del blanqueado."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 58,
+        "question": "Textil",
+        "options": [
+          {
+            "label": "A",
+            "text": "El modelo en cascada para el desarrollo de software se utiliza cuando existen documentos"
+          },
+          {
+            "label": "B",
+            "text": "La metodología Kanban divide tareas en porciones mínimas organizadas de forma muy"
+          },
+          {
+            "label": "C",
+            "text": "Un centro de datos tiene un consumo hídrico promedio equivalente a 1000 hogares típicos."
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 59,
+        "question": "Textil",
+        "options": [
+          {
+            "label": "A",
+            "text": "El scrum es una metodología de desarrollo de software tipo en cascada, el scrum master es"
+          },
+          {
+            "label": "B",
+            "text": "La Ley de Promoción de la Industria del Software plantea beneficios principalmente fiscales"
+          },
+          {
+            "label": "C",
+            "text": "Las exportaciones argentinas de software en la pasada década han crecido a una tasa"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 60,
+        "question": "SBC.",
+        "options": [
+          {
+            "label": "A",
+            "text": "El Sprint es un concepto vinculado a metodologías ágiles, un evento de duración definida"
+          },
+          {
+            "label": "B",
+            "text": "El sector nacional ha crecido en la última década, si bien registra en los últimos tres años"
+          },
+          {
+            "label": "C",
+            "text": "Las producciones audiovisuales, el diseño gráfico y la asistencia técnica son ejemplos de"
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 61,
+        "question": "Telecomunicaciones",
+        "options": [
+          {
+            "label": "A",
+            "text": "Los satélites pueden trabajar en órbitas de muy diferente longitud, la más cercana (LEO)"
+          },
+          {
+            "label": "B",
+            "text": "Las redes de fibra óptica de muy larga longitud incorporan cada cierta distancia nodos de"
+          },
+          {
+            "label": "C",
+            "text": "Una gran desventaja de las telecomunicaciones por redes móviles es que la señal no puede"
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 62,
+        "question": "Telecomunicaciones",
+        "options": [
+          {
+            "label": "A",
+            "text": "1° Radioenlace, 2° Cables (cobre), 3°Satelital"
+          },
+          {
+            "label": "B",
+            "text": "1° Radioenlace, 2° Fibra Óptica, 3°Satelital"
+          },
+          {
+            "label": "C",
+            "text": "1° Cables (cobre), 2° Satelital, 3° Radioenlace"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las opciones anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 63,
+        "question": "Telecomunicaciones",
+        "options": [
+          {
+            "label": "A",
+            "text": "Un 30% de las cuencas hidrográficas del país son exorreicas (el río desemboca en cuerpos"
+          },
+          {
+            "label": "B",
+            "text": "La vía troncal navegable conecta 5 países y abarca del lado argentino más de 1400 km, por"
+          },
+          {
+            "label": "C",
+            "text": "Por el puerto de Bahía Blanca, se comercializan en primer lugar productos del polo"
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 64,
+        "question": "Telecomunicaciones",
+        "options": [
+          {
+            "label": "A",
+            "text": "Combustibles líquidos y gaseosos."
+          },
+          {
+            "label": "B",
+            "text": "Minerales de hierro y acero."
+          },
+          {
+            "label": "C",
+            "text": "Soja y sus derivados."
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 65,
+        "question": "Telecomunicaciones",
+        "options": [
+          {
+            "label": "A",
+            "text": "Puerto de Buenos Aires."
+          },
+          {
+            "label": "B",
+            "text": "Puerto de Bahía Blanca."
+          },
+          {
+            "label": "C",
+            "text": "Puerto de Gran Rosario."
+          },
+          {
+            "label": "D",
+            "text": "Puerto de Zárate."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 66,
+        "question": "Telecomunicaciones",
+        "options": [
+          {
+            "label": "A",
+            "text": "La infraestructura fluvial y marítima nacional representa un cuello de botella para la"
+          },
+          {
+            "label": "B",
+            "text": "El sistema fluvial y portuario argentino es una via relevante para el comercio exterior,"
+          },
+          {
+            "label": "C",
+            "text": "La Hidrovia Paraguay-Paraná es utilizada mayormente para transporte regional de"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 67,
+        "question": "Farmacéutica",
+        "options": [
+          {
+            "label": "A",
+            "text": "La industria lidera la inversión en I+D sobre ventas, enfocándose principalmente en nuevos"
+          },
+          {
+            "label": "B",
+            "text": "Alrededor de un 80% de la industria se localiza en CABA, debido principalmente a la"
+          },
+          {
+            "label": "C",
+            "text": "La balanza comercial resulta en déficit, generado principalmente por laboratorios de origen"
+          },
+          {
+            "label": "D",
+            "text": "A y C son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 68,
+        "question": "Industria farmacéutica y biotecnológica:",
+        "options": [
+          {
+            "label": "A",
+            "text": "En la producción de aspirinas, se emplea fenol y soda cáustica para la obtención del"
+          },
+          {
+            "label": "B",
+            "text": "El tiempo de desarrollo promedio de una vacuna sobrepasa, típicamente, los 10 años para"
+          },
+          {
+            "label": "C",
+            "text": "La producción de origen nacional es la que mayores ventas reporta en Argentina, éstas se"
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 69,
+        "question": "Industria farmacéutica y biotecnológica:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Es un sector caracterizado por una alta inversión en I+D y una de las de mayor valor agregado"
+          },
+          {
+            "label": "B",
+            "text": "La investigación básica en este sector es la destinada a la búsqueda de nuevas"
+          },
+          {
+            "label": "C",
+            "text": "Para la elaboración de comprimidos normalmente se utiliza un proceso de granulación"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 70,
+        "question": "Industria farmacéutica y biotecnológica:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Los excipientes son sustancias añadidas a los medicamentos, principalmente para"
+          },
+          {
+            "label": "B",
+            "text": "Las plantas farmoquímicas de Argentina se ubican cerca de los puertos, por la logística de"
+          },
+          {
+            "label": "C",
+            "text": "La mayor parte de las plantas industriales instaladas en el país, pertenecen a empresas de"
+          },
+          {
+            "label": "D",
+            "text": "Es un sector destacado por el uso intensivo en tecnología y sus altos precios, muy poco"
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 71,
+        "question": "Industria farmacéutica y biotecnológica:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Un sistema extensivo de tratamiento de efluentes líquidos industriales tiene como principal"
+          },
+          {
+            "label": "B",
+            "text": "Frecuentemente existe una primera etapa de tratamiento preliminar en el manejo de"
+          },
+          {
+            "label": "C",
+            "text": "La DBO y la DQO son dos parámetros destinados ambos a la determinación de"
+          },
+          {
+            "label": "D",
+            "text": "Todas las respuestas anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 72,
+        "question": "Industria farmacéutica y biotecnológica:",
+        "options": [
+          {
+            "label": "A",
+            "text": "El agua obtenida de perforaciones subterráneas (agua de pozo) es generalmente de mayor"
+          },
+          {
+            "label": "B",
+            "text": "La desinfección de agua con usos industriales y/o consuntivos puede realizarse con cloro,"
+          },
+          {
+            "label": "C",
+            "text": "Una opción popular para el tratamiento de agua de calderas es el filtrado y la coagulación-"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las respuestas anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 73,
+        "question": "Industria farmacéutica y biotecnológica:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Un tratamiento extensivo o natural es en general la alternativa más viable cuando se"
+          },
+          {
+            "label": "B",
+            "text": "La ecualización es un proceso muy frecuente, necesario para amortiguar las variaciones de"
+          },
+          {
+            "label": "C",
+            "text": "Los parámetros exigibles para el vuelco de efluentes a nivel local, dependen"
+          },
+          {
+            "label": "D",
+            "text": "Todas las opciones anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 74,
+        "question": "Los parámetros DBO y DQO en efluentes industriales (Seleccione una o más de una):",
+        "options": [
+          {
+            "label": "A",
+            "text": "Presentan cierta variabilidad por las diferencias analíticas, pero deberían arrojar un valor"
+          },
+          {
+            "label": "B",
+            "text": "Miden el mismo contaminante mediante diferentes métodos analíticos."
+          },
+          {
+            "label": "C",
+            "text": "Pueden ser muy distintos en valor e interesa conocer ambos para caracterizar."
+          },
+          {
+            "label": "D",
+            "text": "La elección entre determinar una u otra dependerá de los recursos del laboratorio."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 75,
+        "question": "Los Residuos Patogénicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "Son materiales con riesgo de ocasionar infecciones o contagios."
+          },
+          {
+            "label": "B",
+            "text": "Su generación es muy frecuente en múltiples industrias locales."
+          },
+          {
+            "label": "C",
+            "text": "Requieren una gestión separada de otros residuos urbanos o industriales, se recolectan en"
+          },
+          {
+            "label": "D",
+            "text": "Todas las anteriores son correctas."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      },
+      {
+        "number": 76,
+        "question": "Los Residuos Patogénicos:",
+        "options": [
+          {
+            "label": "A",
+            "text": "En ciertos casos pueden ser asimilables a residuos sólidos urbanos, y disponerse como"
+          },
+          {
+            "label": "B",
+            "text": "Deben someterse a un proceso de tratamiento en sucesivas etapas: de lavado, desinfección"
+          },
+          {
+            "label": "C",
+            "text": "Un autoclave, es un equipo usado en el reciclaje de residuos patogénicos, que usa vapor a"
+          },
+          {
+            "label": "D",
+            "text": "Ninguna de las opciones anteriores es correcta."
+          }
+        ],
+        "correct": "A",
+        "explanation": ""
+      }
+    ]
+  }
+]

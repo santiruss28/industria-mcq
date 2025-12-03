@@ -3,8 +3,8 @@ from pathlib import Path
 import re
 
 DATA_DIR = Path("data")
-TXT_PATH = DATA_DIR / "mcq_simple.txt"
-JSON_PATH = DATA_DIR / "mcq.json"
+TXT_PATH = DATA_DIR / "mcq_simple1.txt"
+JSON_PATH = DATA_DIR / "mcq12.json"
 
 
 def parse_file():

@@ -24,7 +24,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 DATA_DIR = Path("data")
 CHUNKS_PATH = DATA_DIR / "chunks.jsonl"
-OUT_PATH = DATA_DIR / "mcq_simple.txt"
+OUT_PATH = DATA_DIR / "mcq_simple2.txt"
 
 MODEL_NAME = "gpt-4o-mini"
 

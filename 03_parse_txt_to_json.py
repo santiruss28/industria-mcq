@@ -3,7 +3,7 @@ from pathlib import Path
 import re
 
 DATA_DIR = Path("data")
-TXT_PATH = DATA_DIR / "mcq_simple1.txt"
+TXT_PATH = DATA_DIR / "mcq_simple2.txt"
 JSON_PATH = DATA_DIR / "mcq12.json"
 
 
